@@ -280,7 +280,7 @@
             "additionalProperties": false
           }
         },
-        "required": ["name", "rom", "exit", "success"],
+        "required": ["name", "rom", "exit"],
         "additionalProperties": false
       }
     }

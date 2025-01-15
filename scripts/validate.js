@@ -145,6 +145,7 @@ const suites = [
   require("../tests/rtc3test.json"),
   require("../tests/SameSuite.json"),
   // require("../tests/TurtleTests.json"),
+  require("../tests/which.json"),
 ];
 
 async function validate() {

@@ -274,6 +274,10 @@
                     "additionalProperties": false
                   }
                 ]
+              },
+              "serial": {
+                "description": "The ASCII serial log which is expected if the test passed.",
+                "type": "string"
               }
             },
             "minProperties": 1,

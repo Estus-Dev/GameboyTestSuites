@@ -11,7 +11,8 @@
         "time": 3
       },
       "success": {
-        "screenshot": "cpu_instrs/01-special.png"
+        "screenshot": "cpu_instrs/01-special.png",
+        "serial": "01-special\n\n\nPassed\n"
       }
     },
     {
@@ -23,7 +24,8 @@
         "time": 1
       },
       "success": {
-        "screenshot": "cpu_instrs/02-interrupts.png"
+        "screenshot": "cpu_instrs/02-interrupts.png",
+        "serial": "02-interrupts\n\n\nPassed\n"
       }
     },
     {
@@ -35,7 +37,8 @@
         "time": 2.5
       },
       "success": {
-        "screenshot": "cpu_instrs/03-op_sp,hl.png"
+        "screenshot": "cpu_instrs/03-op_sp,hl.png",
+        "serial": "03-op sp,hl\n\n\nPassed\n"
       }
     },
     {
@@ -47,7 +50,8 @@
         "time": 2.5
       },
       "success": {
-        "screenshot": "cpu_instrs/04-op_r,imm.png"
+        "screenshot": "cpu_instrs/04-op_r,imm.png",
+        "serial": "04-op r,imm\n\n\nPassed\n"
       }
     },
     {
@@ -59,7 +63,8 @@
         "time": 3
       },
       "success": {
-        "screenshot": "cpu_instrs/05-op_rp.png"
+        "screenshot": "cpu_instrs/05-op_rp.png",
+        "serial": "05-op rp\n\n\nPassed\n"
       }
     },
     {
@@ -71,7 +76,8 @@
         "time": 1
       },
       "success": {
-        "screenshot": "cpu_instrs/06-ld_r,r.png"
+        "screenshot": "cpu_instrs/06-ld_r,r.png",
+        "serial": "06-ld r,r\n\n\nPassed\n"
       }
     },
     {
@@ -83,7 +89,8 @@
         "time": 1
       },
       "success": {
-        "screenshot": "cpu_instrs/07-jr,jp,call,ret,rst.png"
+        "screenshot": "cpu_instrs/07-jr,jp,call,ret,rst.png",
+        "serial": "07-jr,jp,call,ret,rst\n\n\nPassed\n"
       }
     },
     {
@@ -95,7 +102,8 @@
         "time": 1
       },
       "success": {
-        "screenshot": "cpu_instrs/08-misc_instrs.png"
+        "screenshot": "cpu_instrs/08-misc_instrs.png",
+        "serial": "08-misc instrs\n\n\nPassed\n"
       }
     },
     {
@@ -107,7 +115,8 @@
         "time": 7
       },
       "success": {
-        "screenshot": "cpu_instrs/09-op_r,r.png"
+        "screenshot": "cpu_instrs/09-op_r,r.png",
+        "serial": "09-op r,r\n\n\nPassed\n"
       }
     },
     {
@@ -119,7 +128,8 @@
         "time": 14
       },
       "success": {
-        "screenshot": "cpu_instrs/10-bit_ops.png"
+        "screenshot": "cpu_instrs/10-bit_ops.png",
+        "serial": "10-bit ops\n\n\nPassed\n"
       }
     },
     {
@@ -131,7 +141,8 @@
         "time": 13
       },
       "success": {
-        "screenshot": "cpu_instrs/11-op_a,(hl).png"
+        "screenshot": "cpu_instrs/11-op_a,(hl).png",
+        "serial": "11-op a,(hl)\n\n\nPassed\n"
       }
     },
     {

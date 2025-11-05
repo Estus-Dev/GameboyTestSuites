@@ -102,6 +102,10 @@
             "description": "The name of the test.",
             "type": "string"
           },
+          "test_group": {
+            "description": "The name of the test group, if any. Groups multi-ROM tests together.",
+            "type": "string"
+          },
           "url": {
             "description": "The URL of the test, if it differs from the URL of the suite.",
             "type": "string"

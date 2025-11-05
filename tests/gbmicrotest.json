@@ -229,6 +229,7 @@
     },
     {
       "name": "div_inc_timing_a",
+      "test_group": "div_inc_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/div_inc_timing_a.s",
       "rom": "div_inc_timing_a.gb",
       "models": ["dmg"],
@@ -244,6 +245,7 @@
     },
     {
       "name": "div_inc_timing_b",
+      "test_group": "div_inc_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/div_inc_timing_b.s",
       "rom": "div_inc_timing_b.gb",
       "models": ["dmg"],
@@ -424,6 +426,7 @@
     },
     {
       "name": "hblank_int_di_timing_a",
+      "test_group": "hblank_int_di_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_di_timing_a.s",
       "rom": "hblank_int_di_timing_a.gb",
       "models": ["dmg"],
@@ -439,6 +442,7 @@
     },
     {
       "name": "hblank_int_di_timing_b",
+      "test_group": "hblank_int_di_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_di_timing_b.s",
       "rom": "hblank_int_di_timing_b.gb",
       "models": ["dmg"],
@@ -454,6 +458,7 @@
     },
     {
       "name": "hblank_int_if_a",
+      "test_group": "hblank_int_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_if_a.s",
       "rom": "hblank_int_if_a.gb",
       "models": ["dmg"],
@@ -469,6 +474,7 @@
     },
     {
       "name": "hblank_int_if_b",
+      "test_group": "hblank_int_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_if_b.s",
       "rom": "hblank_int_if_b.gb",
       "models": ["dmg"],
@@ -544,6 +550,7 @@
     },
     {
       "name": "hblank_int_scx0_if_a",
+      "test_group": "hblank_int_scx0_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx0_if_a.s",
       "rom": "hblank_int_scx0_if_a.gb",
       "models": ["dmg"],
@@ -559,6 +566,7 @@
     },
     {
       "name": "hblank_int_scx0_if_b",
+      "test_group": "hblank_int_scx0_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx0_if_b.s",
       "rom": "hblank_int_scx0_if_b.gb",
       "models": ["dmg"],
@@ -574,6 +582,7 @@
     },
     {
       "name": "hblank_int_scx0_if_c",
+      "test_group": "hblank_int_scx0_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx0_if_c.s",
       "rom": "hblank_int_scx0_if_c.gb",
       "models": ["dmg"],
@@ -589,6 +598,7 @@
     },
     {
       "name": "hblank_int_scx0_if_d",
+      "test_group": "hblank_int_scx0_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx0_if_d.s",
       "rom": "hblank_int_scx0_if_d.gb",
       "models": ["dmg"],
@@ -619,6 +629,7 @@
     },
     {
       "name": "hblank_int_scx1_if_a",
+      "test_group": "hblank_int_scx1_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx1_if_a.s",
       "rom": "hblank_int_scx1_if_a.gb",
       "models": ["dmg"],
@@ -634,6 +645,7 @@
     },
     {
       "name": "hblank_int_scx1_if_b",
+      "test_group": "hblank_int_scx1_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx1_if_b.s",
       "rom": "hblank_int_scx1_if_b.gb",
       "models": ["dmg"],
@@ -649,6 +661,7 @@
     },
     {
       "name": "hblank_int_scx1_if_c",
+      "test_group": "hblank_int_scx1_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx1_if_c.s",
       "rom": "hblank_int_scx1_if_c.gb",
       "models": ["dmg"],
@@ -664,6 +677,7 @@
     },
     {
       "name": "hblank_int_scx1_if_d",
+      "test_group": "hblank_int_scx1_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx1_if_d.s",
       "rom": "hblank_int_scx1_if_d.gb",
       "models": ["dmg"],
@@ -679,6 +693,7 @@
     },
     {
       "name": "hblank_int_scx1_nops_a",
+      "test_group": "hblank_int_scx1_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx1_nops_a.s",
       "rom": "hblank_int_scx1_nops_a.gb",
       "models": ["dmg"],
@@ -694,6 +709,7 @@
     },
     {
       "name": "hblank_int_scx1_nops_b",
+      "test_group": "hblank_int_scx1_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx1_nops_b.s",
       "rom": "hblank_int_scx1_nops_b.gb",
       "models": ["dmg"],
@@ -724,6 +740,7 @@
     },
     {
       "name": "hblank_int_scx2_if_a",
+      "test_group": "hblank_int_scx2_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx2_if_a.s",
       "rom": "hblank_int_scx2_if_a.gb",
       "models": ["dmg"],
@@ -739,6 +756,7 @@
     },
     {
       "name": "hblank_int_scx2_if_b",
+      "test_group": "hblank_int_scx2_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx2_if_b.s",
       "rom": "hblank_int_scx2_if_b.gb",
       "models": ["dmg"],
@@ -754,6 +772,7 @@
     },
     {
       "name": "hblank_int_scx2_if_c",
+      "test_group": "hblank_int_scx2_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx2_if_c.s",
       "rom": "hblank_int_scx2_if_c.gb",
       "models": ["dmg"],
@@ -769,6 +788,7 @@
     },
     {
       "name": "hblank_int_scx2_if_d",
+      "test_group": "hblank_int_scx2_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx2_if_d.s",
       "rom": "hblank_int_scx2_if_d.gb",
       "models": ["dmg"],
@@ -784,6 +804,7 @@
     },
     {
       "name": "hblank_int_scx2_nops_a",
+      "test_group": "hblank_int_scx2_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx2_nops_a.s",
       "rom": "hblank_int_scx2_nops_a.gb",
       "models": ["dmg"],
@@ -799,6 +820,7 @@
     },
     {
       "name": "hblank_int_scx2_nops_b",
+      "test_group": "hblank_int_scx2_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx2_nops_b.s",
       "rom": "hblank_int_scx2_nops_b.gb",
       "models": ["dmg"],
@@ -829,6 +851,7 @@
     },
     {
       "name": "hblank_int_scx3_if_a",
+      "test_group": "hblank_int_scx3_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx3_if_a.s",
       "rom": "hblank_int_scx3_if_a.gb",
       "models": ["dmg"],
@@ -844,6 +867,7 @@
     },
     {
       "name": "hblank_int_scx3_if_b",
+      "test_group": "hblank_int_scx3_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx3_if_b.s",
       "rom": "hblank_int_scx3_if_b.gb",
       "models": ["dmg"],
@@ -859,6 +883,7 @@
     },
     {
       "name": "hblank_int_scx3_if_c",
+      "test_group": "hblank_int_scx3_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx3_if_c.s",
       "rom": "hblank_int_scx3_if_c.gb",
       "models": ["dmg"],
@@ -874,6 +899,7 @@
     },
     {
       "name": "hblank_int_scx3_if_d",
+      "test_group": "hblank_int_scx3_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx3_if_d.s",
       "rom": "hblank_int_scx3_if_d.gb",
       "models": ["dmg"],
@@ -889,6 +915,7 @@
     },
     {
       "name": "hblank_int_scx3_nops_a",
+      "test_group": "hblank_int_scx3_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx3_nops_a.s",
       "rom": "hblank_int_scx3_nops_a.gb",
       "models": ["dmg"],
@@ -904,6 +931,7 @@
     },
     {
       "name": "hblank_int_scx3_nops_b",
+      "test_group": "hblank_int_scx3_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx3_nops_b.s",
       "rom": "hblank_int_scx3_nops_b.gb",
       "models": ["dmg"],
@@ -934,6 +962,7 @@
     },
     {
       "name": "hblank_int_scx4_if_a",
+      "test_group": "hblank_int_scx4_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx4_if_a.s",
       "rom": "hblank_int_scx4_if_a.gb",
       "models": ["dmg"],
@@ -949,6 +978,7 @@
     },
     {
       "name": "hblank_int_scx4_if_b",
+      "test_group": "hblank_int_scx4_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx4_if_b.s",
       "rom": "hblank_int_scx4_if_b.gb",
       "models": ["dmg"],
@@ -964,6 +994,7 @@
     },
     {
       "name": "hblank_int_scx4_if_c",
+      "test_group": "hblank_int_scx4_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx4_if_c.s",
       "rom": "hblank_int_scx4_if_c.gb",
       "models": ["dmg"],
@@ -979,6 +1010,7 @@
     },
     {
       "name": "hblank_int_scx4_if_d",
+      "test_group": "hblank_int_scx4_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx4_if_d.s",
       "rom": "hblank_int_scx4_if_d.gb",
       "models": ["dmg"],
@@ -994,6 +1026,7 @@
     },
     {
       "name": "hblank_int_scx4_nops_a",
+      "test_group": "hblank_int_scx4_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx4_nops_a.s",
       "rom": "hblank_int_scx4_nops_a.gb",
       "models": ["dmg"],
@@ -1009,6 +1042,7 @@
     },
     {
       "name": "hblank_int_scx4_nops_b",
+      "test_group": "hblank_int_scx4_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx4_nops_b.s",
       "rom": "hblank_int_scx4_nops_b.gb",
       "models": ["dmg"],
@@ -1039,6 +1073,7 @@
     },
     {
       "name": "hblank_int_scx5_if_a",
+      "test_group": "hblank_int_scx5_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx5_if_a.s",
       "rom": "hblank_int_scx5_if_a.gb",
       "models": ["dmg"],
@@ -1054,6 +1089,7 @@
     },
     {
       "name": "hblank_int_scx5_if_b",
+      "test_group": "hblank_int_scx5_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx5_if_b.s",
       "rom": "hblank_int_scx5_if_b.gb",
       "models": ["dmg"],
@@ -1069,6 +1105,7 @@
     },
     {
       "name": "hblank_int_scx5_if_c",
+      "test_group": "hblank_int_scx5_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx5_if_c.s",
       "rom": "hblank_int_scx5_if_c.gb",
       "models": ["dmg"],
@@ -1084,6 +1121,7 @@
     },
     {
       "name": "hblank_int_scx5_if_d",
+      "test_group": "hblank_int_scx5_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx5_if_d.s",
       "rom": "hblank_int_scx5_if_d.gb",
       "models": ["dmg"],
@@ -1099,6 +1137,7 @@
     },
     {
       "name": "hblank_int_scx5_nops_a",
+      "test_group": "hblank_int_scx5_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx5_nops_a.s",
       "rom": "hblank_int_scx5_nops_a.gb",
       "models": ["dmg"],
@@ -1114,6 +1153,7 @@
     },
     {
       "name": "hblank_int_scx5_nops_b",
+      "test_group": "hblank_int_scx5_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx5_nops_b.s",
       "rom": "hblank_int_scx5_nops_b.gb",
       "models": ["dmg"],
@@ -1144,6 +1184,7 @@
     },
     {
       "name": "hblank_int_scx6_if_a",
+      "test_group": "hblank_int_scx6_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx6_if_a.s",
       "rom": "hblank_int_scx6_if_a.gb",
       "models": ["dmg"],
@@ -1159,6 +1200,7 @@
     },
     {
       "name": "hblank_int_scx6_if_b",
+      "test_group": "hblank_int_scx6_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx6_if_b.s",
       "rom": "hblank_int_scx6_if_b.gb",
       "models": ["dmg"],
@@ -1174,6 +1216,7 @@
     },
     {
       "name": "hblank_int_scx6_if_c",
+      "test_group": "hblank_int_scx6_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx6_if_c.s",
       "rom": "hblank_int_scx6_if_c.gb",
       "models": ["dmg"],
@@ -1189,6 +1232,7 @@
     },
     {
       "name": "hblank_int_scx6_if_d",
+      "test_group": "hblank_int_scx6_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx6_if_d.s",
       "rom": "hblank_int_scx6_if_d.gb",
       "models": ["dmg"],
@@ -1204,6 +1248,7 @@
     },
     {
       "name": "hblank_int_scx6_nops_a",
+      "test_group": "hblank_int_scx6_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx6_nops_a.s",
       "rom": "hblank_int_scx6_nops_a.gb",
       "models": ["dmg"],
@@ -1219,6 +1264,7 @@
     },
     {
       "name": "hblank_int_scx6_nops_b",
+      "test_group": "hblank_int_scx6_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx6_nops_b.s",
       "rom": "hblank_int_scx6_nops_b.gb",
       "models": ["dmg"],
@@ -1249,6 +1295,7 @@
     },
     {
       "name": "hblank_int_scx7_if_a",
+      "test_group": "hblank_int_scx7_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx7_if_a.s",
       "rom": "hblank_int_scx7_if_a.gb",
       "models": ["dmg"],
@@ -1264,6 +1311,7 @@
     },
     {
       "name": "hblank_int_scx7_if_b",
+      "test_group": "hblank_int_scx7_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx7_if_b.s",
       "rom": "hblank_int_scx7_if_b.gb",
       "models": ["dmg"],
@@ -1279,6 +1327,7 @@
     },
     {
       "name": "hblank_int_scx7_if_c",
+      "test_group": "hblank_int_scx7_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx7_if_c.s",
       "rom": "hblank_int_scx7_if_c.gb",
       "models": ["dmg"],
@@ -1294,6 +1343,7 @@
     },
     {
       "name": "hblank_int_scx7_if_d",
+      "test_group": "hblank_int_scx7_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx7_if_d.s",
       "rom": "hblank_int_scx7_if_d.gb",
       "models": ["dmg"],
@@ -1309,6 +1359,7 @@
     },
     {
       "name": "hblank_int_scx7_nops_a",
+      "test_group": "hblank_int_scx7_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx7_nops_a.s",
       "rom": "hblank_int_scx7_nops_a.gb",
       "models": ["dmg"],
@@ -1324,6 +1375,7 @@
     },
     {
       "name": "hblank_int_scx7_nops_b",
+      "test_group": "hblank_int_scx7_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_int_scx7_nops_b.s",
       "rom": "hblank_int_scx7_nops_b.gb",
       "models": ["dmg"],
@@ -1354,6 +1406,7 @@
     },
     {
       "name": "hblank_scx3_if_a",
+      "test_group": "hblank_scx3_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_scx3_if_a.s",
       "rom": "hblank_scx3_if_a.gb",
       "models": ["dmg"],
@@ -1369,6 +1422,7 @@
     },
     {
       "name": "hblank_scx3_if_b",
+      "test_group": "hblank_scx3_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_scx3_if_b.s",
       "rom": "hblank_scx3_if_b.gb",
       "models": ["dmg"],
@@ -1384,6 +1438,7 @@
     },
     {
       "name": "hblank_scx3_if_c",
+      "test_group": "hblank_scx3_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_scx3_if_c.s",
       "rom": "hblank_scx3_if_c.gb",
       "models": ["dmg"],
@@ -1399,6 +1454,7 @@
     },
     {
       "name": "hblank_scx3_if_d",
+      "test_group": "hblank_scx3_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_scx3_if_d.s",
       "rom": "hblank_scx3_if_d.gb",
       "models": ["dmg"],
@@ -1414,6 +1470,7 @@
     },
     {
       "name": "hblank_scx3_int_a",
+      "test_group": "hblank_scx3_int",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_scx3_int_a.s",
       "rom": "hblank_scx3_int_a.gb",
       "models": ["dmg"],
@@ -1429,6 +1486,7 @@
     },
     {
       "name": "hblank_scx3_int_b",
+      "test_group": "hblank_scx3_int",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/hblank_scx3_int_b.s",
       "rom": "hblank_scx3_int_b.gb",
       "models": ["dmg"],
@@ -1444,6 +1502,7 @@
     },
     {
       "name": "int_hblank_halt_bug_a",
+      "test_group": "int_hblank_halt_bug",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/int_hblank_halt_bug_a.s",
       "rom": "int_hblank_halt_bug_a.gb",
       "models": ["dmg"],
@@ -1459,6 +1518,7 @@
     },
     {
       "name": "int_hblank_halt_bug_b",
+      "test_group": "int_hblank_halt_bug",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/int_hblank_halt_bug_b.s",
       "rom": "int_hblank_halt_bug_b.gb",
       "models": ["dmg"],
@@ -1939,6 +1999,7 @@
     },
     {
       "name": "int_timer_halt_div_a",
+      "test_group": "int_timer_halt_div",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/int_timer_halt_div_a.s",
       "rom": "int_timer_halt_div_a.gb",
       "models": ["dmg"],
@@ -1954,6 +2015,7 @@
     },
     {
       "name": "int_timer_halt_div_b",
+      "test_group": "int_timer_halt_div",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/int_timer_halt_div_b.s",
       "rom": "int_timer_halt_div_b.gb",
       "models": ["dmg"],
@@ -1999,6 +2061,7 @@
     },
     {
       "name": "int_timer_nops_div_a",
+      "test_group": "int_timer_nops_div",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/int_timer_nops_div_a.s",
       "rom": "int_timer_nops_div_a.gb",
       "models": ["dmg"],
@@ -2014,6 +2077,7 @@
     },
     {
       "name": "int_timer_nops_div_b",
+      "test_group": "int_timer_nops_div",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/int_timer_nops_div_b.s",
       "rom": "int_timer_nops_div_b.gb",
       "models": ["dmg"],
@@ -2134,6 +2198,7 @@
     },
     {
       "name": "lcdon_halt_to_vblank_int_a",
+      "test_group": "lcdon_halt_to_vblank_int",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_halt_to_vblank_int_a.s",
       "rom": "lcdon_halt_to_vblank_int_a.gb",
       "models": ["dmg"],
@@ -2149,6 +2214,7 @@
     },
     {
       "name": "lcdon_halt_to_vblank_int_b",
+      "test_group": "lcdon_halt_to_vblank_int",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_halt_to_vblank_int_b.s",
       "rom": "lcdon_halt_to_vblank_int_b.gb",
       "models": ["dmg"],
@@ -2164,6 +2230,7 @@
     },
     {
       "name": "lcdon_nops_to_vblank_int_a",
+      "test_group": "lcdon_nops_to_vblank_int",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_nops_to_vblank_int_a.s",
       "rom": "lcdon_nops_to_vblank_int_a.gb",
       "models": ["dmg"],
@@ -2179,6 +2246,7 @@
     },
     {
       "name": "lcdon_nops_to_vblank_int_b",
+      "test_group": "lcdon_nops_to_vblank_int",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_nops_to_vblank_int_b.s",
       "rom": "lcdon_nops_to_vblank_int_b.gb",
       "models": ["dmg"],
@@ -2194,6 +2262,7 @@
     },
     {
       "name": "lcdon_to_if_oam_a",
+      "test_group": "lcdon_to_if_oam",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_if_oam_a.s",
       "rom": "lcdon_to_if_oam_a.gb",
       "models": ["dmg"],
@@ -2209,6 +2278,7 @@
     },
     {
       "name": "lcdon_to_if_oam_b",
+      "test_group": "lcdon_to_if_oam",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_if_oam_b.s",
       "rom": "lcdon_to_if_oam_b.gb",
       "models": ["dmg"],
@@ -2224,6 +2294,7 @@
     },
     {
       "name": "lcdon_to_ly1_a",
+      "test_group": "lcdon_to_ly1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_ly1_a.s",
       "rom": "lcdon_to_ly1_a.gb",
       "models": ["dmg"],
@@ -2239,6 +2310,7 @@
     },
     {
       "name": "lcdon_to_ly1_b",
+      "test_group": "lcdon_to_ly1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_ly1_b.s",
       "rom": "lcdon_to_ly1_b.gb",
       "models": ["dmg"],
@@ -2254,6 +2326,7 @@
     },
     {
       "name": "lcdon_to_ly2_a",
+      "test_group": "lcdon_to_ly2",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_ly2_a.s",
       "rom": "lcdon_to_ly2_a.gb",
       "models": ["dmg"],
@@ -2269,6 +2342,7 @@
     },
     {
       "name": "lcdon_to_ly2_b",
+      "test_group": "lcdon_to_ly2",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_ly2_b.s",
       "rom": "lcdon_to_ly2_b.gb",
       "models": ["dmg"],
@@ -2284,6 +2358,7 @@
     },
     {
       "name": "lcdon_to_ly3_a",
+      "test_group": "lcdon_to_ly3",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_ly3_a.s",
       "rom": "lcdon_to_ly3_a.gb",
       "models": ["dmg"],
@@ -2299,6 +2374,7 @@
     },
     {
       "name": "lcdon_to_ly3_b",
+      "test_group": "lcdon_to_ly3",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_ly3_b.s",
       "rom": "lcdon_to_ly3_b.gb",
       "models": ["dmg"],
@@ -2404,6 +2480,7 @@
     },
     {
       "name": "lcdon_to_oam_unlock_a",
+      "test_group": "lcdon_to_oam_unlock",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_oam_unlock_a.s",
       "rom": "lcdon_to_oam_unlock_a.gb",
       "models": ["dmg"],
@@ -2419,6 +2496,7 @@
     },
     {
       "name": "lcdon_to_oam_unlock_b",
+      "test_group": "lcdon_to_oam_unlock",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_oam_unlock_b.s",
       "rom": "lcdon_to_oam_unlock_b.gb",
       "models": ["dmg"],
@@ -2434,6 +2512,7 @@
     },
     {
       "name": "lcdon_to_oam_unlock_c",
+      "test_group": "lcdon_to_oam_unlock",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_oam_unlock_c.s",
       "rom": "lcdon_to_oam_unlock_c.gb",
       "models": ["dmg"],
@@ -2449,6 +2528,7 @@
     },
     {
       "name": "lcdon_to_oam_unlock_d",
+      "test_group": "lcdon_to_oam_unlock",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_oam_unlock_d.s",
       "rom": "lcdon_to_oam_unlock_d.gb",
       "models": ["dmg"],
@@ -2464,6 +2544,7 @@
     },
     {
       "name": "lcdon_to_stat0_a",
+      "test_group": "lcdon_to_stat0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_stat0_a.s",
       "rom": "lcdon_to_stat0_a.gb",
       "models": ["dmg"],
@@ -2479,6 +2560,7 @@
     },
     {
       "name": "lcdon_to_stat0_b",
+      "test_group": "lcdon_to_stat0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_stat0_b.s",
       "rom": "lcdon_to_stat0_b.gb",
       "models": ["dmg"],
@@ -2494,6 +2576,7 @@
     },
     {
       "name": "lcdon_to_stat0_c",
+      "test_group": "lcdon_to_stat0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_stat0_c.s",
       "rom": "lcdon_to_stat0_c.gb",
       "models": ["dmg"],
@@ -2509,6 +2592,7 @@
     },
     {
       "name": "lcdon_to_stat0_d",
+      "test_group": "lcdon_to_stat0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_stat0_d.s",
       "rom": "lcdon_to_stat0_d.gb",
       "models": ["dmg"],
@@ -2524,6 +2608,7 @@
     },
     {
       "name": "lcdon_to_stat1_a",
+      "test_group": "lcdon_to_stat1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_stat1_a.s",
       "rom": "lcdon_to_stat1_a.gb",
       "models": ["dmg"],
@@ -2539,6 +2624,7 @@
     },
     {
       "name": "lcdon_to_stat1_b",
+      "test_group": "lcdon_to_stat1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_stat1_b.s",
       "rom": "lcdon_to_stat1_b.gb",
       "models": ["dmg"],
@@ -2554,6 +2640,7 @@
     },
     {
       "name": "lcdon_to_stat1_c",
+      "test_group": "lcdon_to_stat1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_stat1_c.s",
       "rom": "lcdon_to_stat1_c.gb",
       "models": ["dmg"],
@@ -2569,6 +2656,7 @@
     },
     {
       "name": "lcdon_to_stat1_d",
+      "test_group": "lcdon_to_stat1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_stat1_d.s",
       "rom": "lcdon_to_stat1_d.gb",
       "models": ["dmg"],
@@ -2584,6 +2672,7 @@
     },
     {
       "name": "lcdon_to_stat1_e",
+      "test_group": "lcdon_to_stat1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_stat1_e.s",
       "rom": "lcdon_to_stat1_e.gb",
       "models": ["dmg"],
@@ -2599,6 +2688,7 @@
     },
     {
       "name": "lcdon_to_stat2_a",
+      "test_group": "lcdon_to_stat2",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_stat2_a.s",
       "rom": "lcdon_to_stat2_a.gb",
       "models": ["dmg"],
@@ -2614,6 +2704,7 @@
     },
     {
       "name": "lcdon_to_stat2_b",
+      "test_group": "lcdon_to_stat2",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_stat2_b.s",
       "rom": "lcdon_to_stat2_b.gb",
       "models": ["dmg"],
@@ -2629,6 +2720,7 @@
     },
     {
       "name": "lcdon_to_stat2_c",
+      "test_group": "lcdon_to_stat2",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_stat2_c.s",
       "rom": "lcdon_to_stat2_c.gb",
       "models": ["dmg"],
@@ -2644,6 +2736,7 @@
     },
     {
       "name": "lcdon_to_stat2_d",
+      "test_group": "lcdon_to_stat2",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_stat2_d.s",
       "rom": "lcdon_to_stat2_d.gb",
       "models": ["dmg"],
@@ -2659,6 +2752,7 @@
     },
     {
       "name": "lcdon_to_stat3_a",
+      "test_group": "lcdon_to_stat3",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_stat3_a.s",
       "rom": "lcdon_to_stat3_a.gb",
       "models": ["dmg"],
@@ -2674,6 +2768,7 @@
     },
     {
       "name": "lcdon_to_stat3_b",
+      "test_group": "lcdon_to_stat3",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_stat3_b.s",
       "rom": "lcdon_to_stat3_b.gb",
       "models": ["dmg"],
@@ -2689,6 +2784,7 @@
     },
     {
       "name": "lcdon_to_stat3_c",
+      "test_group": "lcdon_to_stat3",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_stat3_c.s",
       "rom": "lcdon_to_stat3_c.gb",
       "models": ["dmg"],
@@ -2704,6 +2800,7 @@
     },
     {
       "name": "lcdon_to_stat3_d",
+      "test_group": "lcdon_to_stat3",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lcdon_to_stat3_d.s",
       "rom": "lcdon_to_stat3_d.gb",
       "models": ["dmg"],
@@ -2734,6 +2831,7 @@
     },
     {
       "name": "line_144_oam_int_a",
+      "test_group": "line_144_oam_int",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_144_oam_int_a.s",
       "rom": "line_144_oam_int_a.gb",
       "models": ["dmg"],
@@ -2749,6 +2847,7 @@
     },
     {
       "name": "line_144_oam_int_b",
+      "test_group": "line_144_oam_int",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_144_oam_int_b.s",
       "rom": "line_144_oam_int_b.gb",
       "models": ["dmg"],
@@ -2764,6 +2863,7 @@
     },
     {
       "name": "line_144_oam_int_c",
+      "test_group": "line_144_oam_int",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_144_oam_int_c.s",
       "rom": "line_144_oam_int_c.gb",
       "models": ["dmg"],
@@ -2779,6 +2879,7 @@
     },
     {
       "name": "line_144_oam_int_d",
+      "test_group": "line_144_oam_int",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_144_oam_int_d.s",
       "rom": "line_144_oam_int_d.gb",
       "models": ["dmg"],
@@ -2794,6 +2895,7 @@
     },
     {
       "name": "line_153_ly_a",
+      "test_group": "line_153_ly",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_ly_a.s",
       "rom": "line_153_ly_a.gb",
       "models": ["dmg"],
@@ -2809,6 +2911,7 @@
     },
     {
       "name": "line_153_ly_b",
+      "test_group": "line_153_ly",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_ly_b.s",
       "rom": "line_153_ly_b.gb",
       "models": ["dmg"],
@@ -2824,6 +2927,7 @@
     },
     {
       "name": "line_153_ly_c",
+      "test_group": "line_153_ly",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_ly_c.s",
       "rom": "line_153_ly_c.gb",
       "models": ["dmg"],
@@ -2839,6 +2943,7 @@
     },
     {
       "name": "line_153_ly_d",
+      "test_group": "line_153_ly",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_ly_d.s",
       "rom": "line_153_ly_d.gb",
       "models": ["dmg"],
@@ -2854,6 +2959,7 @@
     },
     {
       "name": "line_153_ly_e",
+      "test_group": "line_153_ly",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_ly_e.s",
       "rom": "line_153_ly_e.gb",
       "models": ["dmg"],
@@ -2869,6 +2975,7 @@
     },
     {
       "name": "line_153_ly_f",
+      "test_group": "line_153_ly",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_ly_f.s",
       "rom": "line_153_ly_f.gb",
       "models": ["dmg"],
@@ -2899,6 +3006,7 @@
     },
     {
       "name": "line_153_lyc0_stat_timing_a",
+      "test_group": "line_153_lyc0_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc0_stat_timing_a.s",
       "rom": "line_153_lyc0_stat_timing_a.gb",
       "models": ["dmg"],
@@ -2914,6 +3022,7 @@
     },
     {
       "name": "line_153_lyc0_stat_timing_b",
+      "test_group": "line_153_lyc0_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc0_stat_timing_b.s",
       "rom": "line_153_lyc0_stat_timing_b.gb",
       "models": ["dmg"],
@@ -2929,6 +3038,7 @@
     },
     {
       "name": "line_153_lyc0_stat_timing_c",
+      "test_group": "line_153_lyc0_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc0_stat_timing_c.s",
       "rom": "line_153_lyc0_stat_timing_c.gb",
       "models": ["dmg"],
@@ -2944,6 +3054,7 @@
     },
     {
       "name": "line_153_lyc0_stat_timing_d",
+      "test_group": "line_153_lyc0_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc0_stat_timing_d.s",
       "rom": "line_153_lyc0_stat_timing_d.gb",
       "models": ["dmg"],
@@ -2959,6 +3070,7 @@
     },
     {
       "name": "line_153_lyc0_stat_timing_e",
+      "test_group": "line_153_lyc0_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc0_stat_timing_e.s",
       "rom": "line_153_lyc0_stat_timing_e.gb",
       "models": ["dmg"],
@@ -2974,6 +3086,7 @@
     },
     {
       "name": "line_153_lyc0_stat_timing_f",
+      "test_group": "line_153_lyc0_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc0_stat_timing_f.s",
       "rom": "line_153_lyc0_stat_timing_f.gb",
       "models": ["dmg"],
@@ -2989,6 +3102,7 @@
     },
     {
       "name": "line_153_lyc0_stat_timing_g",
+      "test_group": "line_153_lyc0_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc0_stat_timing_g.s",
       "rom": "line_153_lyc0_stat_timing_g.gb",
       "models": ["dmg"],
@@ -3004,6 +3118,7 @@
     },
     {
       "name": "line_153_lyc0_stat_timing_h",
+      "test_group": "line_153_lyc0_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc0_stat_timing_h.s",
       "rom": "line_153_lyc0_stat_timing_h.gb",
       "models": ["dmg"],
@@ -3019,6 +3134,7 @@
     },
     {
       "name": "line_153_lyc0_stat_timing_i",
+      "test_group": "line_153_lyc0_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc0_stat_timing_i.s",
       "rom": "line_153_lyc0_stat_timing_i.gb",
       "models": ["dmg"],
@@ -3034,6 +3150,7 @@
     },
     {
       "name": "line_153_lyc0_stat_timing_j",
+      "test_group": "line_153_lyc0_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc0_stat_timing_j.s",
       "rom": "line_153_lyc0_stat_timing_j.gb",
       "models": ["dmg"],
@@ -3049,6 +3166,7 @@
     },
     {
       "name": "line_153_lyc0_stat_timing_k",
+      "test_group": "line_153_lyc0_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc0_stat_timing_k.s",
       "rom": "line_153_lyc0_stat_timing_k.gb",
       "models": ["dmg"],
@@ -3064,6 +3182,7 @@
     },
     {
       "name": "line_153_lyc0_stat_timing_l",
+      "test_group": "line_153_lyc0_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc0_stat_timing_l.s",
       "rom": "line_153_lyc0_stat_timing_l.gb",
       "models": ["dmg"],
@@ -3079,6 +3198,7 @@
     },
     {
       "name": "line_153_lyc0_stat_timing_m",
+      "test_group": "line_153_lyc0_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc0_stat_timing_m.s",
       "rom": "line_153_lyc0_stat_timing_m.gb",
       "models": ["dmg"],
@@ -3094,6 +3214,7 @@
     },
     {
       "name": "line_153_lyc0_stat_timing_n",
+      "test_group": "line_153_lyc0_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc0_stat_timing_n.s",
       "rom": "line_153_lyc0_stat_timing_n.gb",
       "models": ["dmg"],
@@ -3109,6 +3230,7 @@
     },
     {
       "name": "line_153_lyc153_stat_timing_a",
+      "test_group": "line_153_lyc153_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc153_stat_timing_a.s",
       "rom": "line_153_lyc153_stat_timing_a.gb",
       "models": ["dmg"],
@@ -3124,6 +3246,7 @@
     },
     {
       "name": "line_153_lyc153_stat_timing_b",
+      "test_group": "line_153_lyc153_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc153_stat_timing_b.s",
       "rom": "line_153_lyc153_stat_timing_b.gb",
       "models": ["dmg"],
@@ -3139,6 +3262,7 @@
     },
     {
       "name": "line_153_lyc153_stat_timing_c",
+      "test_group": "line_153_lyc153_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc153_stat_timing_c.s",
       "rom": "line_153_lyc153_stat_timing_c.gb",
       "models": ["dmg"],
@@ -3154,6 +3278,7 @@
     },
     {
       "name": "line_153_lyc153_stat_timing_d",
+      "test_group": "line_153_lyc153_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc153_stat_timing_d.s",
       "rom": "line_153_lyc153_stat_timing_d.gb",
       "models": ["dmg"],
@@ -3169,6 +3294,7 @@
     },
     {
       "name": "line_153_lyc153_stat_timing_e",
+      "test_group": "line_153_lyc153_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc153_stat_timing_e.s",
       "rom": "line_153_lyc153_stat_timing_e.gb",
       "models": ["dmg"],
@@ -3184,6 +3310,7 @@
     },
     {
       "name": "line_153_lyc153_stat_timing_f",
+      "test_group": "line_153_lyc153_stat_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc153_stat_timing_f.s",
       "rom": "line_153_lyc153_stat_timing_f.gb",
       "models": ["dmg"],
@@ -3199,6 +3326,7 @@
     },
     {
       "name": "line_153_lyc_a",
+      "test_group": "line_153_lyc",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc_a.s",
       "rom": "line_153_lyc_a.gb",
       "models": ["dmg"],
@@ -3214,6 +3342,7 @@
     },
     {
       "name": "line_153_lyc_b",
+      "test_group": "line_153_lyc",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc_b.s",
       "rom": "line_153_lyc_b.gb",
       "models": ["dmg"],
@@ -3229,6 +3358,7 @@
     },
     {
       "name": "line_153_lyc_c",
+      "test_group": "line_153_lyc",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc_c.s",
       "rom": "line_153_lyc_c.gb",
       "models": ["dmg"],
@@ -3244,6 +3374,7 @@
     },
     {
       "name": "line_153_lyc_int_a",
+      "test_group": "line_153_lyc_int",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc_int_a.s",
       "rom": "line_153_lyc_int_a.gb",
       "models": ["dmg"],
@@ -3259,6 +3390,7 @@
     },
     {
       "name": "line_153_lyc_int_b",
+      "test_group": "line_153_lyc_int",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/line_153_lyc_int_b.s",
       "rom": "line_153_lyc_int_b.gb",
       "models": ["dmg"],
@@ -3304,6 +3436,7 @@
     },
     {
       "name": "lyc1_int_halt_a",
+      "test_group": "lyc1_int_halt",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lyc1_int_halt_a.s",
       "rom": "lyc1_int_halt_a.gb",
       "models": ["dmg"],
@@ -3319,6 +3452,7 @@
     },
     {
       "name": "lyc1_int_halt_b",
+      "test_group": "lyc1_int_halt",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lyc1_int_halt_b.s",
       "rom": "lyc1_int_halt_b.gb",
       "models": ["dmg"],
@@ -3334,6 +3468,7 @@
     },
     {
       "name": "lyc1_int_if_edge_a",
+      "test_group": "lyc1_int_if_edge",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lyc1_int_if_edge_a.s",
       "rom": "lyc1_int_if_edge_a.gb",
       "models": ["dmg"],
@@ -3349,6 +3484,7 @@
     },
     {
       "name": "lyc1_int_if_edge_b",
+      "test_group": "lyc1_int_if_edge",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lyc1_int_if_edge_b.s",
       "rom": "lyc1_int_if_edge_b.gb",
       "models": ["dmg"],
@@ -3364,6 +3500,7 @@
     },
     {
       "name": "lyc1_int_if_edge_c",
+      "test_group": "lyc1_int_if_edge",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lyc1_int_if_edge_c.s",
       "rom": "lyc1_int_if_edge_c.gb",
       "models": ["dmg"],
@@ -3379,6 +3516,7 @@
     },
     {
       "name": "lyc1_int_if_edge_d",
+      "test_group": "lyc1_int_if_edge",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lyc1_int_if_edge_d.s",
       "rom": "lyc1_int_if_edge_d.gb",
       "models": ["dmg"],
@@ -3394,6 +3532,7 @@
     },
     {
       "name": "lyc1_int_nops_a",
+      "test_group": "lyc1_int_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lyc1_int_nops_a.s",
       "rom": "lyc1_int_nops_a.gb",
       "models": ["dmg"],
@@ -3409,6 +3548,7 @@
     },
     {
       "name": "lyc1_int_nops_b",
+      "test_group": "lyc1_int_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lyc1_int_nops_b.s",
       "rom": "lyc1_int_nops_b.gb",
       "models": ["dmg"],
@@ -3424,6 +3564,7 @@
     },
     {
       "name": "lyc1_write_timing_a",
+      "test_group": "lyc1_write_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lyc1_write_timing_a.s",
       "rom": "lyc1_write_timing_a.gb",
       "models": ["dmg"],
@@ -3439,6 +3580,7 @@
     },
     {
       "name": "lyc1_write_timing_b",
+      "test_group": "lyc1_write_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lyc1_write_timing_b.s",
       "rom": "lyc1_write_timing_b.gb",
       "models": ["dmg"],
@@ -3454,6 +3596,7 @@
     },
     {
       "name": "lyc1_write_timing_c",
+      "test_group": "lyc1_write_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lyc1_write_timing_c.s",
       "rom": "lyc1_write_timing_c.gb",
       "models": ["dmg"],
@@ -3469,6 +3612,7 @@
     },
     {
       "name": "lyc1_write_timing_d",
+      "test_group": "lyc1_write_timing",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lyc1_write_timing_d.s",
       "rom": "lyc1_write_timing_d.gb",
       "models": ["dmg"],
@@ -3484,6 +3628,7 @@
     },
     {
       "name": "lyc2_int_halt_a",
+      "test_group": "lyc2_int_halt",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lyc2_int_halt_a.s",
       "rom": "lyc2_int_halt_a.gb",
       "models": ["dmg"],
@@ -3499,6 +3644,7 @@
     },
     {
       "name": "lyc2_int_halt_b",
+      "test_group": "lyc2_int_halt",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lyc2_int_halt_b.s",
       "rom": "lyc2_int_halt_b.gb",
       "models": ["dmg"],
@@ -3514,6 +3660,7 @@
     },
     {
       "name": "lyc_int_halt_a",
+      "test_group": "lyc_int_halt",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lyc_int_halt_a.s",
       "rom": "lyc_int_halt_a.gb",
       "models": ["dmg"],
@@ -3529,6 +3676,7 @@
     },
     {
       "name": "lyc_int_halt_b",
+      "test_group": "lyc_int_halt",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/lyc_int_halt_b.s",
       "rom": "lyc_int_halt_b.gb",
       "models": ["dmg"],
@@ -3604,6 +3752,7 @@
     },
     {
       "name": "oam_int_halt_a",
+      "test_group": "oam_int_halt",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_int_halt_a.s",
       "rom": "oam_int_halt_a.gb",
       "models": ["dmg"],
@@ -3619,6 +3768,7 @@
     },
     {
       "name": "oam_int_halt_b",
+      "test_group": "oam_int_halt",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_int_halt_b.s",
       "rom": "oam_int_halt_b.gb",
       "models": ["dmg"],
@@ -3634,6 +3784,7 @@
     },
     {
       "name": "oam_int_if_edge_a",
+      "test_group": "oam_int_if_edge",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_int_if_edge_a.s",
       "rom": "oam_int_if_edge_a.gb",
       "models": ["dmg"],
@@ -3649,6 +3800,7 @@
     },
     {
       "name": "oam_int_if_edge_b",
+      "test_group": "oam_int_if_edge",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_int_if_edge_b.s",
       "rom": "oam_int_if_edge_b.gb",
       "models": ["dmg"],
@@ -3664,6 +3816,7 @@
     },
     {
       "name": "oam_int_if_edge_c",
+      "test_group": "oam_int_if_edge",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_int_if_edge_c.s",
       "rom": "oam_int_if_edge_c.gb",
       "models": ["dmg"],
@@ -3679,6 +3832,7 @@
     },
     {
       "name": "oam_int_if_edge_d",
+      "test_group": "oam_int_if_edge",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_int_if_edge_d.s",
       "rom": "oam_int_if_edge_d.gb",
       "models": ["dmg"],
@@ -3694,6 +3848,7 @@
     },
     {
       "name": "oam_int_if_level_c",
+      "test_group": "oam_int_if_level",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_int_if_level_c.s",
       "rom": "oam_int_if_level_c.gb",
       "models": ["dmg"],
@@ -3709,6 +3864,7 @@
     },
     {
       "name": "oam_int_if_level_d",
+      "test_group": "oam_int_if_level",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_int_if_level_d.s",
       "rom": "oam_int_if_level_d.gb",
       "models": ["dmg"],
@@ -3739,6 +3895,7 @@
     },
     {
       "name": "oam_int_nops_a",
+      "test_group": "oam_int_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_int_nops_a.s",
       "rom": "oam_int_nops_a.gb",
       "models": ["dmg"],
@@ -3754,6 +3911,7 @@
     },
     {
       "name": "oam_int_nops_b",
+      "test_group": "oam_int_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_int_nops_b.s",
       "rom": "oam_int_nops_b.gb",
       "models": ["dmg"],
@@ -3769,6 +3927,7 @@
     },
     {
       "name": "oam_read_l0_a",
+      "test_group": "oam_read_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_read_l0_a.s",
       "rom": "oam_read_l0_a.gb",
       "models": ["dmg"],
@@ -3784,6 +3943,7 @@
     },
     {
       "name": "oam_read_l0_b",
+      "test_group": "oam_read_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_read_l0_b.s",
       "rom": "oam_read_l0_b.gb",
       "models": ["dmg"],
@@ -3799,6 +3959,7 @@
     },
     {
       "name": "oam_read_l0_c",
+      "test_group": "oam_read_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_read_l0_c.s",
       "rom": "oam_read_l0_c.gb",
       "models": ["dmg"],
@@ -3814,6 +3975,7 @@
     },
     {
       "name": "oam_read_l0_d",
+      "test_group": "oam_read_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_read_l0_d.s",
       "rom": "oam_read_l0_d.gb",
       "models": ["dmg"],
@@ -3829,6 +3991,7 @@
     },
     {
       "name": "oam_read_l1_a",
+      "test_group": "oam_read_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_read_l1_a.s",
       "rom": "oam_read_l1_a.gb",
       "models": ["dmg"],
@@ -3844,6 +4007,7 @@
     },
     {
       "name": "oam_read_l1_b",
+      "test_group": "oam_read_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_read_l1_b.s",
       "rom": "oam_read_l1_b.gb",
       "models": ["dmg"],
@@ -3859,6 +4023,7 @@
     },
     {
       "name": "oam_read_l1_c",
+      "test_group": "oam_read_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_read_l1_c.s",
       "rom": "oam_read_l1_c.gb",
       "models": ["dmg"],
@@ -3874,6 +4039,7 @@
     },
     {
       "name": "oam_read_l1_d",
+      "test_group": "oam_read_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_read_l1_d.s",
       "rom": "oam_read_l1_d.gb",
       "models": ["dmg"],
@@ -3889,6 +4055,7 @@
     },
     {
       "name": "oam_read_l1_e",
+      "test_group": "oam_read_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_read_l1_e.s",
       "rom": "oam_read_l1_e.gb",
       "models": ["dmg"],
@@ -3904,6 +4071,7 @@
     },
     {
       "name": "oam_read_l1_f",
+      "test_group": "oam_read_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_read_l1_f.s",
       "rom": "oam_read_l1_f.gb",
       "models": ["dmg"],
@@ -3934,6 +4102,7 @@
     },
     {
       "name": "oam_write_l0_a",
+      "test_group": "oam_write_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_write_l0_a.s",
       "rom": "oam_write_l0_a.gb",
       "models": ["dmg"],
@@ -3949,6 +4118,7 @@
     },
     {
       "name": "oam_write_l0_b",
+      "test_group": "oam_write_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_write_l0_b.s",
       "rom": "oam_write_l0_b.gb",
       "models": ["dmg"],
@@ -3964,6 +4134,7 @@
     },
     {
       "name": "oam_write_l0_c",
+      "test_group": "oam_write_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_write_l0_c.s",
       "rom": "oam_write_l0_c.gb",
       "models": ["dmg"],
@@ -3979,6 +4150,7 @@
     },
     {
       "name": "oam_write_l0_d",
+      "test_group": "oam_write_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_write_l0_d.s",
       "rom": "oam_write_l0_d.gb",
       "models": ["dmg"],
@@ -3994,6 +4166,7 @@
     },
     {
       "name": "oam_write_l0_e",
+      "test_group": "oam_write_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_write_l0_e.s",
       "rom": "oam_write_l0_e.gb",
       "models": ["dmg"],
@@ -4009,6 +4182,7 @@
     },
     {
       "name": "oam_write_l1_a",
+      "test_group": "oam_write_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_write_l1_a.s",
       "rom": "oam_write_l1_a.gb",
       "models": ["dmg"],
@@ -4024,6 +4198,7 @@
     },
     {
       "name": "oam_write_l1_b",
+      "test_group": "oam_write_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_write_l1_b.s",
       "rom": "oam_write_l1_b.gb",
       "models": ["dmg"],
@@ -4039,6 +4214,7 @@
     },
     {
       "name": "oam_write_l1_c",
+      "test_group": "oam_write_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_write_l1_c.s",
       "rom": "oam_write_l1_c.gb",
       "models": ["dmg"],
@@ -4054,6 +4230,7 @@
     },
     {
       "name": "oam_write_l1_d",
+      "test_group": "oam_write_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_write_l1_d.s",
       "rom": "oam_write_l1_d.gb",
       "models": ["dmg"],
@@ -4069,6 +4246,7 @@
     },
     {
       "name": "oam_write_l1_e",
+      "test_group": "oam_write_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_write_l1_e.s",
       "rom": "oam_write_l1_e.gb",
       "models": ["dmg"],
@@ -4084,6 +4262,7 @@
     },
     {
       "name": "oam_write_l1_f",
+      "test_group": "oam_write_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/oam_write_l1_f.s",
       "rom": "oam_write_l1_f.gb",
       "models": ["dmg"],
@@ -5089,6 +5268,7 @@
     },
     {
       "name": "ppu_sprite0_scx0_a",
+      "test_group": "ppu_sprite0_scx0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/ppu_sprite0_scx0_a.s",
       "rom": "ppu_sprite0_scx0_a.gb",
       "models": ["dmg"],
@@ -5104,6 +5284,7 @@
     },
     {
       "name": "ppu_sprite0_scx0_b",
+      "test_group": "ppu_sprite0_scx0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/ppu_sprite0_scx0_b.s",
       "rom": "ppu_sprite0_scx0_b.gb",
       "models": ["dmg"],
@@ -5119,6 +5300,7 @@
     },
     {
       "name": "ppu_sprite0_scx1_a",
+      "test_group": "ppu_sprite0_scx1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/ppu_sprite0_scx1_a.s",
       "rom": "ppu_sprite0_scx1_a.gb",
       "models": ["dmg"],
@@ -5134,6 +5316,7 @@
     },
     {
       "name": "ppu_sprite0_scx1_b",
+      "test_group": "ppu_sprite0_scx1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/ppu_sprite0_scx1_b.s",
       "rom": "ppu_sprite0_scx1_b.gb",
       "models": ["dmg"],
@@ -5149,6 +5332,7 @@
     },
     {
       "name": "ppu_sprite0_scx2_a",
+      "test_group": "ppu_sprite0_scx2",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/ppu_sprite0_scx2_a.s",
       "rom": "ppu_sprite0_scx2_a.gb",
       "models": ["dmg"],
@@ -5164,6 +5348,7 @@
     },
     {
       "name": "ppu_sprite0_scx2_b",
+      "test_group": "ppu_sprite0_scx2",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/ppu_sprite0_scx2_b.s",
       "rom": "ppu_sprite0_scx2_b.gb",
       "models": ["dmg"],
@@ -5179,6 +5364,7 @@
     },
     {
       "name": "ppu_sprite0_scx3_a",
+      "test_group": "ppu_sprite0_scx3",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/ppu_sprite0_scx3_a.s",
       "rom": "ppu_sprite0_scx3_a.gb",
       "models": ["dmg"],
@@ -5194,6 +5380,7 @@
     },
     {
       "name": "ppu_sprite0_scx3_b",
+      "test_group": "ppu_sprite0_scx3",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/ppu_sprite0_scx3_b.s",
       "rom": "ppu_sprite0_scx3_b.gb",
       "models": ["dmg"],
@@ -5209,6 +5396,7 @@
     },
     {
       "name": "ppu_sprite0_scx4_a",
+      "test_group": "ppu_sprite0_scx4",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/ppu_sprite0_scx4_a.s",
       "rom": "ppu_sprite0_scx4_a.gb",
       "models": ["dmg"],
@@ -5224,6 +5412,7 @@
     },
     {
       "name": "ppu_sprite0_scx4_b",
+      "test_group": "ppu_sprite0_scx4",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/ppu_sprite0_scx4_b.s",
       "rom": "ppu_sprite0_scx4_b.gb",
       "models": ["dmg"],
@@ -5239,6 +5428,7 @@
     },
     {
       "name": "ppu_sprite0_scx5_a",
+      "test_group": "ppu_sprite0_scx5",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/ppu_sprite0_scx5_a.s",
       "rom": "ppu_sprite0_scx5_a.gb",
       "models": ["dmg"],
@@ -5254,6 +5444,7 @@
     },
     {
       "name": "ppu_sprite0_scx5_b",
+      "test_group": "ppu_sprite0_scx5",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/ppu_sprite0_scx5_b.s",
       "rom": "ppu_sprite0_scx5_b.gb",
       "models": ["dmg"],
@@ -5269,6 +5460,7 @@
     },
     {
       "name": "ppu_sprite0_scx6_a",
+      "test_group": "ppu_sprite0_scx6",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/ppu_sprite0_scx6_a.s",
       "rom": "ppu_sprite0_scx6_a.gb",
       "models": ["dmg"],
@@ -5284,6 +5476,7 @@
     },
     {
       "name": "ppu_sprite0_scx6_b",
+      "test_group": "ppu_sprite0_scx6",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/ppu_sprite0_scx6_b.s",
       "rom": "ppu_sprite0_scx6_b.gb",
       "models": ["dmg"],
@@ -5299,6 +5492,7 @@
     },
     {
       "name": "ppu_sprite0_scx7_a",
+      "test_group": "ppu_sprite0_scx7",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/ppu_sprite0_scx7_a.s",
       "rom": "ppu_sprite0_scx7_a.gb",
       "models": ["dmg"],
@@ -5314,6 +5508,7 @@
     },
     {
       "name": "ppu_sprite0_scx7_b",
+      "test_group": "ppu_sprite0_scx7",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/ppu_sprite0_scx7_b.s",
       "rom": "ppu_sprite0_scx7_b.gb",
       "models": ["dmg"],
@@ -5389,6 +5584,7 @@
     },
     {
       "name": "sprite4_0_a",
+      "test_group": "sprite4_0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite4_0_a.s",
       "rom": "sprite4_0_a.gb",
       "models": ["dmg"],
@@ -5404,6 +5600,7 @@
     },
     {
       "name": "sprite4_0_b",
+      "test_group": "sprite4_0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite4_0_b.s",
       "rom": "sprite4_0_b.gb",
       "models": ["dmg"],
@@ -5419,6 +5616,7 @@
     },
     {
       "name": "sprite4_1_a",
+      "test_group": "sprite4_1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite4_1_a.s",
       "rom": "sprite4_1_a.gb",
       "models": ["dmg"],
@@ -5434,6 +5632,7 @@
     },
     {
       "name": "sprite4_1_b",
+      "test_group": "sprite4_1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite4_1_b.s",
       "rom": "sprite4_1_b.gb",
       "models": ["dmg"],
@@ -5449,6 +5648,7 @@
     },
     {
       "name": "sprite4_2_a",
+      "test_group": "sprite4_2",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite4_2_a.s",
       "rom": "sprite4_2_a.gb",
       "models": ["dmg"],
@@ -5464,6 +5664,7 @@
     },
     {
       "name": "sprite4_2_b",
+      "test_group": "sprite4_2",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite4_2_b.s",
       "rom": "sprite4_2_b.gb",
       "models": ["dmg"],
@@ -5479,6 +5680,7 @@
     },
     {
       "name": "sprite4_3_a",
+      "test_group": "sprite4_3",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite4_3_a.s",
       "rom": "sprite4_3_a.gb",
       "models": ["dmg"],
@@ -5494,6 +5696,7 @@
     },
     {
       "name": "sprite4_3_b",
+      "test_group": "sprite4_3",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite4_3_b.s",
       "rom": "sprite4_3_b.gb",
       "models": ["dmg"],
@@ -5509,6 +5712,7 @@
     },
     {
       "name": "sprite4_4_a",
+      "test_group": "sprite4_4",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite4_4_a.s",
       "rom": "sprite4_4_a.gb",
       "models": ["dmg"],
@@ -5524,6 +5728,7 @@
     },
     {
       "name": "sprite4_4_b",
+      "test_group": "sprite4_4",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite4_4_b.s",
       "rom": "sprite4_4_b.gb",
       "models": ["dmg"],
@@ -5539,6 +5744,7 @@
     },
     {
       "name": "sprite4_5_a",
+      "test_group": "sprite4_5",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite4_5_a.s",
       "rom": "sprite4_5_a.gb",
       "models": ["dmg"],
@@ -5554,6 +5760,7 @@
     },
     {
       "name": "sprite4_5_b",
+      "test_group": "sprite4_5",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite4_5_b.s",
       "rom": "sprite4_5_b.gb",
       "models": ["dmg"],
@@ -5569,6 +5776,7 @@
     },
     {
       "name": "sprite4_6_a",
+      "test_group": "sprite4_6",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite4_6_a.s",
       "rom": "sprite4_6_a.gb",
       "models": ["dmg"],
@@ -5584,6 +5792,7 @@
     },
     {
       "name": "sprite4_6_b",
+      "test_group": "sprite4_6",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite4_6_b.s",
       "rom": "sprite4_6_b.gb",
       "models": ["dmg"],
@@ -5599,6 +5808,7 @@
     },
     {
       "name": "sprite4_7_a",
+      "test_group": "sprite4_7",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite4_7_a.s",
       "rom": "sprite4_7_a.gb",
       "models": ["dmg"],
@@ -5614,6 +5824,7 @@
     },
     {
       "name": "sprite4_7_b",
+      "test_group": "sprite4_7",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite4_7_b.s",
       "rom": "sprite4_7_b.gb",
       "models": ["dmg"],
@@ -5629,6 +5840,7 @@
     },
     {
       "name": "sprite_0_a",
+      "test_group": "sprite_0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite_0_a.s",
       "rom": "sprite_0_a.gb",
       "models": ["dmg"],
@@ -5644,6 +5856,7 @@
     },
     {
       "name": "sprite_0_b",
+      "test_group": "sprite_0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite_0_b.s",
       "rom": "sprite_0_b.gb",
       "models": ["dmg"],
@@ -5659,6 +5872,7 @@
     },
     {
       "name": "sprite_1_a",
+      "test_group": "sprite_1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite_1_a.s",
       "rom": "sprite_1_a.gb",
       "models": ["dmg"],
@@ -5674,6 +5888,7 @@
     },
     {
       "name": "sprite_1_b",
+      "test_group": "sprite_1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/sprite_1_b.s",
       "rom": "sprite_1_b.gb",
       "models": ["dmg"],
@@ -5689,6 +5904,7 @@
     },
     {
       "name": "stat_write_glitch_l0_a",
+      "test_group": "stat_write_glitch_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/stat_write_glitch_l0_a.s",
       "rom": "stat_write_glitch_l0_a.gb",
       "models": ["dmg"],
@@ -5704,6 +5920,7 @@
     },
     {
       "name": "stat_write_glitch_l0_b",
+      "test_group": "stat_write_glitch_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/stat_write_glitch_l0_b.s",
       "rom": "stat_write_glitch_l0_b.gb",
       "models": ["dmg"],
@@ -5719,6 +5936,7 @@
     },
     {
       "name": "stat_write_glitch_l0_c",
+      "test_group": "stat_write_glitch_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/stat_write_glitch_l0_c.s",
       "rom": "stat_write_glitch_l0_c.gb",
       "models": ["dmg"],
@@ -5734,6 +5952,7 @@
     },
     {
       "name": "stat_write_glitch_l143_a",
+      "test_group": "stat_write_glitch_l143",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/stat_write_glitch_l143_a.s",
       "rom": "stat_write_glitch_l143_a.gb",
       "models": ["dmg"],
@@ -5749,6 +5968,7 @@
     },
     {
       "name": "stat_write_glitch_l143_b",
+      "test_group": "stat_write_glitch_l143",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/stat_write_glitch_l143_b.s",
       "rom": "stat_write_glitch_l143_b.gb",
       "models": ["dmg"],
@@ -5764,6 +5984,7 @@
     },
     {
       "name": "stat_write_glitch_l143_c",
+      "test_group": "stat_write_glitch_l143",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/stat_write_glitch_l143_c.s",
       "rom": "stat_write_glitch_l143_c.gb",
       "models": ["dmg"],
@@ -5779,6 +6000,7 @@
     },
     {
       "name": "stat_write_glitch_l143_d",
+      "test_group": "stat_write_glitch_l143",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/stat_write_glitch_l143_d.s",
       "rom": "stat_write_glitch_l143_d.gb",
       "models": ["dmg"],
@@ -5794,6 +6016,7 @@
     },
     {
       "name": "stat_write_glitch_l154_a",
+      "test_group": "stat_write_glitch_l154",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/stat_write_glitch_l154_a.s",
       "rom": "stat_write_glitch_l154_a.gb",
       "models": ["dmg"],
@@ -5809,6 +6032,7 @@
     },
     {
       "name": "stat_write_glitch_l154_b",
+      "test_group": "stat_write_glitch_l154",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/stat_write_glitch_l154_b.s",
       "rom": "stat_write_glitch_l154_b.gb",
       "models": ["dmg"],
@@ -5824,6 +6048,7 @@
     },
     {
       "name": "stat_write_glitch_l154_c",
+      "test_group": "stat_write_glitch_l154",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/stat_write_glitch_l154_c.s",
       "rom": "stat_write_glitch_l154_c.gb",
       "models": ["dmg"],
@@ -5839,6 +6064,7 @@
     },
     {
       "name": "stat_write_glitch_l154_d",
+      "test_group": "stat_write_glitch_l154",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/stat_write_glitch_l154_d.s",
       "rom": "stat_write_glitch_l154_d.gb",
       "models": ["dmg"],
@@ -5854,6 +6080,7 @@
     },
     {
       "name": "stat_write_glitch_l1_a",
+      "test_group": "stat_write_glitch_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/stat_write_glitch_l1_a.s",
       "rom": "stat_write_glitch_l1_a.gb",
       "models": ["dmg"],
@@ -5869,6 +6096,7 @@
     },
     {
       "name": "stat_write_glitch_l1_b",
+      "test_group": "stat_write_glitch_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/stat_write_glitch_l1_b.s",
       "rom": "stat_write_glitch_l1_b.gb",
       "models": ["dmg"],
@@ -5884,6 +6112,7 @@
     },
     {
       "name": "stat_write_glitch_l1_c",
+      "test_group": "stat_write_glitch_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/stat_write_glitch_l1_c.s",
       "rom": "stat_write_glitch_l1_c.gb",
       "models": ["dmg"],
@@ -5899,6 +6128,7 @@
     },
     {
       "name": "stat_write_glitch_l1_d",
+      "test_group": "stat_write_glitch_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/stat_write_glitch_l1_d.s",
       "rom": "stat_write_glitch_l1_d.gb",
       "models": ["dmg"],
@@ -5929,6 +6159,7 @@
     },
     {
       "name": "timer_div_phase_c",
+      "test_group": "timer_div_phase",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_div_phase_c.s",
       "rom": "timer_div_phase_c.gb",
       "models": ["dmg"],
@@ -5944,6 +6175,7 @@
     },
     {
       "name": "timer_div_phase_d",
+      "test_group": "timer_div_phase",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_div_phase_d.s",
       "rom": "timer_div_phase_d.gb",
       "models": ["dmg"],
@@ -5959,6 +6191,7 @@
     },
     {
       "name": "timer_tima_inc_256k_a",
+      "test_group": "timer_tima_inc_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_inc_256k_a.s",
       "rom": "timer_tima_inc_256k_a.gb",
       "models": ["dmg"],
@@ -5974,6 +6207,7 @@
     },
     {
       "name": "timer_tima_inc_256k_b",
+      "test_group": "timer_tima_inc_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_inc_256k_b.s",
       "rom": "timer_tima_inc_256k_b.gb",
       "models": ["dmg"],
@@ -5989,6 +6223,7 @@
     },
     {
       "name": "timer_tima_inc_256k_c",
+      "test_group": "timer_tima_inc_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_inc_256k_c.s",
       "rom": "timer_tima_inc_256k_c.gb",
       "models": ["dmg"],
@@ -6004,6 +6239,7 @@
     },
     {
       "name": "timer_tima_inc_256k_d",
+      "test_group": "timer_tima_inc_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_inc_256k_d.s",
       "rom": "timer_tima_inc_256k_d.gb",
       "models": ["dmg"],
@@ -6019,6 +6255,7 @@
     },
     {
       "name": "timer_tima_inc_256k_e",
+      "test_group": "timer_tima_inc_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_inc_256k_e.s",
       "rom": "timer_tima_inc_256k_e.gb",
       "models": ["dmg"],
@@ -6034,6 +6271,7 @@
     },
     {
       "name": "timer_tima_inc_256k_f",
+      "test_group": "timer_tima_inc_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_inc_256k_f.s",
       "rom": "timer_tima_inc_256k_f.gb",
       "models": ["dmg"],
@@ -6049,6 +6287,7 @@
     },
     {
       "name": "timer_tima_inc_256k_g",
+      "test_group": "timer_tima_inc_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_inc_256k_g.s",
       "rom": "timer_tima_inc_256k_g.gb",
       "models": ["dmg"],
@@ -6064,6 +6303,7 @@
     },
     {
       "name": "timer_tima_inc_256k_h",
+      "test_group": "timer_tima_inc_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_inc_256k_h.s",
       "rom": "timer_tima_inc_256k_h.gb",
       "models": ["dmg"],
@@ -6079,6 +6319,7 @@
     },
     {
       "name": "timer_tima_inc_256k_i",
+      "test_group": "timer_tima_inc_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_inc_256k_i.s",
       "rom": "timer_tima_inc_256k_i.gb",
       "models": ["dmg"],
@@ -6094,6 +6335,7 @@
     },
     {
       "name": "timer_tima_inc_256k_j",
+      "test_group": "timer_tima_inc_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_inc_256k_j.s",
       "rom": "timer_tima_inc_256k_j.gb",
       "models": ["dmg"],
@@ -6109,6 +6351,7 @@
     },
     {
       "name": "timer_tima_inc_256k_k",
+      "test_group": "timer_tima_inc_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_inc_256k_k.s",
       "rom": "timer_tima_inc_256k_k.gb",
       "models": ["dmg"],
@@ -6124,6 +6367,7 @@
     },
     {
       "name": "timer_tima_inc_64k_a",
+      "test_group": "timer_tima_inc_64k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_inc_64k_a.s",
       "rom": "timer_tima_inc_64k_a.gb",
       "models": ["dmg"],
@@ -6139,6 +6383,7 @@
     },
     {
       "name": "timer_tima_inc_64k_b",
+      "test_group": "timer_tima_inc_64k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_inc_64k_b.s",
       "rom": "timer_tima_inc_64k_b.gb",
       "models": ["dmg"],
@@ -6154,6 +6399,7 @@
     },
     {
       "name": "timer_tima_inc_64k_c",
+      "test_group": "timer_tima_inc_64k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_inc_64k_c.s",
       "rom": "timer_tima_inc_64k_c.gb",
       "models": ["dmg"],
@@ -6169,6 +6415,7 @@
     },
     {
       "name": "timer_tima_inc_64k_d",
+      "test_group": "timer_tima_inc_64k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_inc_64k_d.s",
       "rom": "timer_tima_inc_64k_d.gb",
       "models": ["dmg"],
@@ -6184,6 +6431,7 @@
     },
     {
       "name": "timer_tima_phase_a",
+      "test_group": "timer_tima_phase",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_phase_a.s",
       "rom": "timer_tima_phase_a.gb",
       "models": ["dmg"],
@@ -6199,6 +6447,7 @@
     },
     {
       "name": "timer_tima_phase_b",
+      "test_group": "timer_tima_phase",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_phase_b.s",
       "rom": "timer_tima_phase_b.gb",
       "models": ["dmg"],
@@ -6214,6 +6463,7 @@
     },
     {
       "name": "timer_tima_phase_c",
+      "test_group": "timer_tima_phase",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_phase_c.s",
       "rom": "timer_tima_phase_c.gb",
       "models": ["dmg"],
@@ -6229,6 +6479,7 @@
     },
     {
       "name": "timer_tima_phase_d",
+      "test_group": "timer_tima_phase",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_phase_d.s",
       "rom": "timer_tima_phase_d.gb",
       "models": ["dmg"],
@@ -6244,6 +6495,7 @@
     },
     {
       "name": "timer_tima_phase_e",
+      "test_group": "timer_tima_phase",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_phase_e.s",
       "rom": "timer_tima_phase_e.gb",
       "models": ["dmg"],
@@ -6259,6 +6511,7 @@
     },
     {
       "name": "timer_tima_phase_f",
+      "test_group": "timer_tima_phase",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_phase_f.s",
       "rom": "timer_tima_phase_f.gb",
       "models": ["dmg"],
@@ -6274,6 +6527,7 @@
     },
     {
       "name": "timer_tima_phase_g",
+      "test_group": "timer_tima_phase",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_phase_g.s",
       "rom": "timer_tima_phase_g.gb",
       "models": ["dmg"],
@@ -6289,6 +6543,7 @@
     },
     {
       "name": "timer_tima_phase_h",
+      "test_group": "timer_tima_phase",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_phase_h.s",
       "rom": "timer_tima_phase_h.gb",
       "models": ["dmg"],
@@ -6304,6 +6559,7 @@
     },
     {
       "name": "timer_tima_phase_i",
+      "test_group": "timer_tima_phase",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_phase_i.s",
       "rom": "timer_tima_phase_i.gb",
       "models": ["dmg"],
@@ -6319,6 +6575,7 @@
     },
     {
       "name": "timer_tima_phase_j",
+      "test_group": "timer_tima_phase",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_phase_j.s",
       "rom": "timer_tima_phase_j.gb",
       "models": ["dmg"],
@@ -6334,6 +6591,7 @@
     },
     {
       "name": "timer_tima_reload_256k_a",
+      "test_group": "timer_tima_reload_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_reload_256k_a.s",
       "rom": "timer_tima_reload_256k_a.gb",
       "models": ["dmg"],
@@ -6349,6 +6607,7 @@
     },
     {
       "name": "timer_tima_reload_256k_b",
+      "test_group": "timer_tima_reload_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_reload_256k_b.s",
       "rom": "timer_tima_reload_256k_b.gb",
       "models": ["dmg"],
@@ -6364,6 +6623,7 @@
     },
     {
       "name": "timer_tima_reload_256k_c",
+      "test_group": "timer_tima_reload_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_reload_256k_c.s",
       "rom": "timer_tima_reload_256k_c.gb",
       "models": ["dmg"],
@@ -6379,6 +6639,7 @@
     },
     {
       "name": "timer_tima_reload_256k_d",
+      "test_group": "timer_tima_reload_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_reload_256k_d.s",
       "rom": "timer_tima_reload_256k_d.gb",
       "models": ["dmg"],
@@ -6394,6 +6655,7 @@
     },
     {
       "name": "timer_tima_reload_256k_e",
+      "test_group": "timer_tima_reload_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_reload_256k_e.s",
       "rom": "timer_tima_reload_256k_e.gb",
       "models": ["dmg"],
@@ -6409,6 +6671,7 @@
     },
     {
       "name": "timer_tima_reload_256k_f",
+      "test_group": "timer_tima_reload_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_reload_256k_f.s",
       "rom": "timer_tima_reload_256k_f.gb",
       "models": ["dmg"],
@@ -6424,6 +6687,7 @@
     },
     {
       "name": "timer_tima_reload_256k_g",
+      "test_group": "timer_tima_reload_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_reload_256k_g.s",
       "rom": "timer_tima_reload_256k_g.gb",
       "models": ["dmg"],
@@ -6439,6 +6703,7 @@
     },
     {
       "name": "timer_tima_reload_256k_h",
+      "test_group": "timer_tima_reload_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_reload_256k_h.s",
       "rom": "timer_tima_reload_256k_h.gb",
       "models": ["dmg"],
@@ -6454,6 +6719,7 @@
     },
     {
       "name": "timer_tima_reload_256k_i",
+      "test_group": "timer_tima_reload_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_reload_256k_i.s",
       "rom": "timer_tima_reload_256k_i.gb",
       "models": ["dmg"],
@@ -6469,6 +6735,7 @@
     },
     {
       "name": "timer_tima_reload_256k_j",
+      "test_group": "timer_tima_reload_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_reload_256k_j.s",
       "rom": "timer_tima_reload_256k_j.gb",
       "models": ["dmg"],
@@ -6484,6 +6751,7 @@
     },
     {
       "name": "timer_tima_reload_256k_k",
+      "test_group": "timer_tima_reload_256k",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_reload_256k_k.s",
       "rom": "timer_tima_reload_256k_k.gb",
       "models": ["dmg"],
@@ -6499,6 +6767,7 @@
     },
     {
       "name": "timer_tima_write_a",
+      "test_group": "timer_tima_write",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_write_a.s",
       "rom": "timer_tima_write_a.gb",
       "models": ["dmg"],
@@ -6514,6 +6783,7 @@
     },
     {
       "name": "timer_tima_write_b",
+      "test_group": "timer_tima_write",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_write_b.s",
       "rom": "timer_tima_write_b.gb",
       "models": ["dmg"],
@@ -6529,6 +6799,7 @@
     },
     {
       "name": "timer_tima_write_c",
+      "test_group": "timer_tima_write",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_write_c.s",
       "rom": "timer_tima_write_c.gb",
       "models": ["dmg"],
@@ -6544,6 +6815,7 @@
     },
     {
       "name": "timer_tima_write_d",
+      "test_group": "timer_tima_write",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_write_d.s",
       "rom": "timer_tima_write_d.gb",
       "models": ["dmg"],
@@ -6559,6 +6831,7 @@
     },
     {
       "name": "timer_tima_write_e",
+      "test_group": "timer_tima_write",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_write_e.s",
       "rom": "timer_tima_write_e.gb",
       "models": ["dmg"],
@@ -6574,6 +6847,7 @@
     },
     {
       "name": "timer_tima_write_f",
+      "test_group": "timer_tima_write",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tima_write_f.s",
       "rom": "timer_tima_write_f.gb",
       "models": ["dmg"],
@@ -6589,6 +6863,7 @@
     },
     {
       "name": "timer_tma_write_a",
+      "test_group": "timer_tma_write",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tma_write_a.s",
       "rom": "timer_tma_write_a.gb",
       "models": ["dmg"],
@@ -6604,6 +6879,7 @@
     },
     {
       "name": "timer_tma_write_b",
+      "test_group": "timer_tma_write",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/timer_tma_write_b.s",
       "rom": "timer_tma_write_b.gb",
       "models": ["dmg"],
@@ -6634,6 +6910,7 @@
     },
     {
       "name": "vblank2_int_halt_a",
+      "test_group": "vblank2_int_halt",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vblank2_int_halt_a.s",
       "rom": "vblank2_int_halt_a.gb",
       "models": ["dmg"],
@@ -6649,6 +6926,7 @@
     },
     {
       "name": "vblank2_int_halt_b",
+      "test_group": "vblank2_int_halt",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vblank2_int_halt_b.s",
       "rom": "vblank2_int_halt_b.gb",
       "models": ["dmg"],
@@ -6664,6 +6942,7 @@
     },
     {
       "name": "vblank2_int_if_a",
+      "test_group": "vblank2_int_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vblank2_int_if_a.s",
       "rom": "vblank2_int_if_a.gb",
       "models": ["dmg"],
@@ -6679,6 +6958,7 @@
     },
     {
       "name": "vblank2_int_if_b",
+      "test_group": "vblank2_int_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vblank2_int_if_b.s",
       "rom": "vblank2_int_if_b.gb",
       "models": ["dmg"],
@@ -6694,6 +6974,7 @@
     },
     {
       "name": "vblank2_int_if_c",
+      "test_group": "vblank2_int_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vblank2_int_if_c.s",
       "rom": "vblank2_int_if_c.gb",
       "models": ["dmg"],
@@ -6709,6 +6990,7 @@
     },
     {
       "name": "vblank2_int_if_d",
+      "test_group": "vblank2_int_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vblank2_int_if_d.s",
       "rom": "vblank2_int_if_d.gb",
       "models": ["dmg"],
@@ -6739,6 +7021,7 @@
     },
     {
       "name": "vblank2_int_nops_a",
+      "test_group": "vblank2_int_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vblank2_int_nops_a.s",
       "rom": "vblank2_int_nops_a.gb",
       "models": ["dmg"],
@@ -6754,6 +7037,7 @@
     },
     {
       "name": "vblank2_int_nops_b",
+      "test_group": "vblank2_int_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vblank2_int_nops_b.s",
       "rom": "vblank2_int_nops_b.gb",
       "models": ["dmg"],
@@ -6769,6 +7053,7 @@
     },
     {
       "name": "vblank_int_halt_a",
+      "test_group": "vblank_int_halt",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vblank_int_halt_a.s",
       "rom": "vblank_int_halt_a.gb",
       "models": ["dmg"],
@@ -6784,6 +7069,7 @@
     },
     {
       "name": "vblank_int_halt_b",
+      "test_group": "vblank_int_halt",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vblank_int_halt_b.s",
       "rom": "vblank_int_halt_b.gb",
       "models": ["dmg"],
@@ -6799,6 +7085,7 @@
     },
     {
       "name": "vblank_int_if_a",
+      "test_group": "vblank_int_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vblank_int_if_a.s",
       "rom": "vblank_int_if_a.gb",
       "models": ["dmg"],
@@ -6814,6 +7101,7 @@
     },
     {
       "name": "vblank_int_if_b",
+      "test_group": "vblank_int_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vblank_int_if_b.s",
       "rom": "vblank_int_if_b.gb",
       "models": ["dmg"],
@@ -6829,6 +7117,7 @@
     },
     {
       "name": "vblank_int_if_c",
+      "test_group": "vblank_int_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vblank_int_if_c.s",
       "rom": "vblank_int_if_c.gb",
       "models": ["dmg"],
@@ -6844,6 +7133,7 @@
     },
     {
       "name": "vblank_int_if_d",
+      "test_group": "vblank_int_if",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vblank_int_if_d.s",
       "rom": "vblank_int_if_d.gb",
       "models": ["dmg"],
@@ -6874,6 +7164,7 @@
     },
     {
       "name": "vblank_int_nops_a",
+      "test_group": "vblank_int_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vblank_int_nops_a.s",
       "rom": "vblank_int_nops_a.gb",
       "models": ["dmg"],
@@ -6889,6 +7180,7 @@
     },
     {
       "name": "vblank_int_nops_b",
+      "test_group": "vblank_int_nops",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vblank_int_nops_b.s",
       "rom": "vblank_int_nops_b.gb",
       "models": ["dmg"],
@@ -6904,6 +7196,7 @@
     },
     {
       "name": "vram_read_l0_a",
+      "test_group": "vram_read_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vram_read_l0_a.s",
       "rom": "vram_read_l0_a.gb",
       "models": ["dmg"],
@@ -6919,6 +7212,7 @@
     },
     {
       "name": "vram_read_l0_b",
+      "test_group": "vram_read_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vram_read_l0_b.s",
       "rom": "vram_read_l0_b.gb",
       "models": ["dmg"],
@@ -6934,6 +7228,7 @@
     },
     {
       "name": "vram_read_l0_c",
+      "test_group": "vram_read_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vram_read_l0_c.s",
       "rom": "vram_read_l0_c.gb",
       "models": ["dmg"],
@@ -6949,6 +7244,7 @@
     },
     {
       "name": "vram_read_l0_d",
+      "test_group": "vram_read_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vram_read_l0_d.s",
       "rom": "vram_read_l0_d.gb",
       "models": ["dmg"],
@@ -6964,6 +7260,7 @@
     },
     {
       "name": "vram_read_l1_a",
+      "test_group": "vram_read_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vram_read_l1_a.s",
       "rom": "vram_read_l1_a.gb",
       "models": ["dmg"],
@@ -6979,6 +7276,7 @@
     },
     {
       "name": "vram_read_l1_b",
+      "test_group": "vram_read_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vram_read_l1_b.s",
       "rom": "vram_read_l1_b.gb",
       "models": ["dmg"],
@@ -6994,6 +7292,7 @@
     },
     {
       "name": "vram_read_l1_c",
+      "test_group": "vram_read_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vram_read_l1_c.s",
       "rom": "vram_read_l1_c.gb",
       "models": ["dmg"],
@@ -7009,6 +7308,7 @@
     },
     {
       "name": "vram_read_l1_d",
+      "test_group": "vram_read_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vram_read_l1_d.s",
       "rom": "vram_read_l1_d.gb",
       "models": ["dmg"],
@@ -7024,6 +7324,7 @@
     },
     {
       "name": "vram_write_l0_a",
+      "test_group": "vram_write_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vram_write_l0_a.s",
       "rom": "vram_write_l0_a.gb",
       "models": ["dmg"],
@@ -7039,6 +7340,7 @@
     },
     {
       "name": "vram_write_l0_b",
+      "test_group": "vram_write_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vram_write_l0_b.s",
       "rom": "vram_write_l0_b.gb",
       "models": ["dmg"],
@@ -7054,6 +7356,7 @@
     },
     {
       "name": "vram_write_l0_c",
+      "test_group": "vram_write_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vram_write_l0_c.s",
       "rom": "vram_write_l0_c.gb",
       "models": ["dmg"],
@@ -7069,6 +7372,7 @@
     },
     {
       "name": "vram_write_l0_d",
+      "test_group": "vram_write_l0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vram_write_l0_d.s",
       "rom": "vram_write_l0_d.gb",
       "models": ["dmg"],
@@ -7084,6 +7388,7 @@
     },
     {
       "name": "vram_write_l1_a",
+      "test_group": "vram_write_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vram_write_l1_a.s",
       "rom": "vram_write_l1_a.gb",
       "models": ["dmg"],
@@ -7099,6 +7404,7 @@
     },
     {
       "name": "vram_write_l1_b",
+      "test_group": "vram_write_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vram_write_l1_b.s",
       "rom": "vram_write_l1_b.gb",
       "models": ["dmg"],
@@ -7114,6 +7420,7 @@
     },
     {
       "name": "vram_write_l1_c",
+      "test_group": "vram_write_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vram_write_l1_c.s",
       "rom": "vram_write_l1_c.gb",
       "models": ["dmg"],
@@ -7129,6 +7436,7 @@
     },
     {
       "name": "vram_write_l1_d",
+      "test_group": "vram_write_l1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/vram_write_l1_d.s",
       "rom": "vram_write_l1_d.gb",
       "models": ["dmg"],
@@ -7159,6 +7467,7 @@
     },
     {
       "name": "win0_a",
+      "test_group": "win0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win0_a.s",
       "rom": "win0_a.gb",
       "models": ["dmg"],
@@ -7174,6 +7483,7 @@
     },
     {
       "name": "win0_b",
+      "test_group": "win0",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win0_b.s",
       "rom": "win0_b.gb",
       "models": ["dmg"],
@@ -7189,6 +7499,7 @@
     },
     {
       "name": "win0_scx3_a",
+      "test_group": "win0_scx3",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win0_scx3_a.s",
       "rom": "win0_scx3_a.gb",
       "models": ["dmg"],
@@ -7204,6 +7515,7 @@
     },
     {
       "name": "win0_scx3_b",
+      "test_group": "win0_scx3",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win0_scx3_b.s",
       "rom": "win0_scx3_b.gb",
       "models": ["dmg"],
@@ -7219,6 +7531,7 @@
     },
     {
       "name": "win10_a",
+      "test_group": "win10",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win10_a.s",
       "rom": "win10_a.gb",
       "models": ["dmg"],
@@ -7234,6 +7547,7 @@
     },
     {
       "name": "win10_b",
+      "test_group": "win10",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win10_b.s",
       "rom": "win10_b.gb",
       "models": ["dmg"],
@@ -7249,6 +7563,7 @@
     },
     {
       "name": "win10_scx3_a",
+      "test_group": "win10_scx3",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win10_scx3_a.s",
       "rom": "win10_scx3_a.gb",
       "models": ["dmg"],
@@ -7264,6 +7579,7 @@
     },
     {
       "name": "win10_scx3_b",
+      "test_group": "win10_scx3",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win10_scx3_b.s",
       "rom": "win10_scx3_b.gb",
       "models": ["dmg"],
@@ -7279,6 +7595,7 @@
     },
     {
       "name": "win11_a",
+      "test_group": "win11",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win11_a.s",
       "rom": "win11_a.gb",
       "models": ["dmg"],
@@ -7294,6 +7611,7 @@
     },
     {
       "name": "win11_b",
+      "test_group": "win11",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win11_b.s",
       "rom": "win11_b.gb",
       "models": ["dmg"],
@@ -7309,6 +7627,7 @@
     },
     {
       "name": "win12_a",
+      "test_group": "win12",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win12_a.s",
       "rom": "win12_a.gb",
       "models": ["dmg"],
@@ -7324,6 +7643,7 @@
     },
     {
       "name": "win12_b",
+      "test_group": "win12",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win12_b.s",
       "rom": "win12_b.gb",
       "models": ["dmg"],
@@ -7339,6 +7659,7 @@
     },
     {
       "name": "win13_a",
+      "test_group": "win13",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win13_a.s",
       "rom": "win13_a.gb",
       "models": ["dmg"],
@@ -7354,6 +7675,7 @@
     },
     {
       "name": "win13_b",
+      "test_group": "win13",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win13_b.s",
       "rom": "win13_b.gb",
       "models": ["dmg"],
@@ -7369,6 +7691,7 @@
     },
     {
       "name": "win14_a",
+      "test_group": "win14",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win14_a.s",
       "rom": "win14_a.gb",
       "models": ["dmg"],
@@ -7384,6 +7707,7 @@
     },
     {
       "name": "win14_b",
+      "test_group": "win14",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win14_b.s",
       "rom": "win14_b.gb",
       "models": ["dmg"],
@@ -7399,6 +7723,7 @@
     },
     {
       "name": "win15_a",
+      "test_group": "win15",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win15_a.s",
       "rom": "win15_a.gb",
       "models": ["dmg"],
@@ -7414,6 +7739,7 @@
     },
     {
       "name": "win15_b",
+      "test_group": "win15",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win15_b.s",
       "rom": "win15_b.gb",
       "models": ["dmg"],
@@ -7429,6 +7755,7 @@
     },
     {
       "name": "win1_a",
+      "test_group": "win1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win1_a.s",
       "rom": "win1_a.gb",
       "models": ["dmg"],
@@ -7444,6 +7771,7 @@
     },
     {
       "name": "win1_b",
+      "test_group": "win1",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win1_b.s",
       "rom": "win1_b.gb",
       "models": ["dmg"],
@@ -7459,6 +7787,7 @@
     },
     {
       "name": "win2_a",
+      "test_group": "win2",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win2_a.s",
       "rom": "win2_a.gb",
       "models": ["dmg"],
@@ -7474,6 +7803,7 @@
     },
     {
       "name": "win2_b",
+      "test_group": "win2",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win2_b.s",
       "rom": "win2_b.gb",
       "models": ["dmg"],
@@ -7489,6 +7819,7 @@
     },
     {
       "name": "win3_a",
+      "test_group": "win3",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win3_a.s",
       "rom": "win3_a.gb",
       "models": ["dmg"],
@@ -7504,6 +7835,7 @@
     },
     {
       "name": "win3_b",
+      "test_group": "win3",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win3_b.s",
       "rom": "win3_b.gb",
       "models": ["dmg"],
@@ -7519,6 +7851,7 @@
     },
     {
       "name": "win4_a",
+      "test_group": "win4",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win4_a.s",
       "rom": "win4_a.gb",
       "models": ["dmg"],
@@ -7534,6 +7867,7 @@
     },
     {
       "name": "win4_b",
+      "test_group": "win4",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win4_b.s",
       "rom": "win4_b.gb",
       "models": ["dmg"],
@@ -7549,6 +7883,7 @@
     },
     {
       "name": "win5_a",
+      "test_group": "win5",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win5_a.s",
       "rom": "win5_a.gb",
       "models": ["dmg"],
@@ -7564,6 +7899,7 @@
     },
     {
       "name": "win5_b",
+      "test_group": "win5",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win5_b.s",
       "rom": "win5_b.gb",
       "models": ["dmg"],
@@ -7579,6 +7915,7 @@
     },
     {
       "name": "win6_a",
+      "test_group": "win6",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win6_a.s",
       "rom": "win6_a.gb",
       "models": ["dmg"],
@@ -7594,6 +7931,7 @@
     },
     {
       "name": "win6_b",
+      "test_group": "win6",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win6_b.s",
       "rom": "win6_b.gb",
       "models": ["dmg"],
@@ -7609,6 +7947,7 @@
     },
     {
       "name": "win7_a",
+      "test_group": "win7",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win7_a.s",
       "rom": "win7_a.gb",
       "models": ["dmg"],
@@ -7624,6 +7963,7 @@
     },
     {
       "name": "win7_b",
+      "test_group": "win7",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win7_b.s",
       "rom": "win7_b.gb",
       "models": ["dmg"],
@@ -7639,6 +7979,7 @@
     },
     {
       "name": "win8_a",
+      "test_group": "win8",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win8_a.s",
       "rom": "win8_a.gb",
       "models": ["dmg"],
@@ -7654,6 +7995,7 @@
     },
     {
       "name": "win8_b",
+      "test_group": "win8",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win8_b.s",
       "rom": "win8_b.gb",
       "models": ["dmg"],
@@ -7669,6 +8011,7 @@
     },
     {
       "name": "win9_a",
+      "test_group": "win9",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win9_a.s",
       "rom": "win9_a.gb",
       "models": ["dmg"],
@@ -7684,6 +8027,7 @@
     },
     {
       "name": "win9_b",
+      "test_group": "win9",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/win9_b.s",
       "rom": "win9_b.gb",
       "models": ["dmg"],

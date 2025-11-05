@@ -4308,6 +4308,7 @@
     },
     {
       "name": "poweron_div_000",
+      "test_group": "poweron_div",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_div_000.s",
       "rom": "poweron_div_000.gb",
       "models": ["dmg"],
@@ -4323,6 +4324,7 @@
     },
     {
       "name": "poweron_div_004",
+      "test_group": "poweron_div",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_div_004.s",
       "rom": "poweron_div_004.gb",
       "models": ["dmg"],
@@ -4338,6 +4340,7 @@
     },
     {
       "name": "poweron_div_005",
+      "test_group": "poweron_div",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_div_005.s",
       "rom": "poweron_div_005.gb",
       "models": ["dmg"],
@@ -4413,6 +4416,7 @@
     },
     {
       "name": "poweron_ly_000",
+      "test_group": "poweron_ly",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_ly_000.s",
       "rom": "poweron_ly_000.gb",
       "models": ["dmg"],
@@ -4428,6 +4432,7 @@
     },
     {
       "name": "poweron_ly_119",
+      "test_group": "poweron_ly",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_ly_119.s",
       "rom": "poweron_ly_119.gb",
       "models": ["dmg"],
@@ -4443,6 +4448,7 @@
     },
     {
       "name": "poweron_ly_120",
+      "test_group": "poweron_ly",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_ly_120.s",
       "rom": "poweron_ly_120.gb",
       "models": ["dmg"],
@@ -4458,6 +4464,7 @@
     },
     {
       "name": "poweron_ly_233",
+      "test_group": "poweron_ly",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_ly_233.s",
       "rom": "poweron_ly_233.gb",
       "models": ["dmg"],
@@ -4473,6 +4480,7 @@
     },
     {
       "name": "poweron_ly_234",
+      "test_group": "poweron_ly",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_ly_234.s",
       "rom": "poweron_ly_234.gb",
       "models": ["dmg"],
@@ -4503,6 +4511,7 @@
     },
     {
       "name": "poweron_oam_000",
+      "test_group": "poweron_oam",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_oam_000.s",
       "rom": "poweron_oam_000.gb",
       "models": ["dmg"],
@@ -4518,6 +4527,7 @@
     },
     {
       "name": "poweron_oam_005",
+      "test_group": "poweron_oam",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_oam_005.s",
       "rom": "poweron_oam_005.gb",
       "models": ["dmg"],
@@ -4533,6 +4543,7 @@
     },
     {
       "name": "poweron_oam_006",
+      "test_group": "poweron_oam",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_oam_006.s",
       "rom": "poweron_oam_006.gb",
       "models": ["dmg"],
@@ -4548,6 +4559,7 @@
     },
     {
       "name": "poweron_oam_069",
+      "test_group": "poweron_oam",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_oam_069.s",
       "rom": "poweron_oam_069.gb",
       "models": ["dmg"],
@@ -4563,6 +4575,7 @@
     },
     {
       "name": "poweron_oam_070",
+      "test_group": "poweron_oam",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_oam_070.s",
       "rom": "poweron_oam_070.gb",
       "models": ["dmg"],
@@ -4578,6 +4591,7 @@
     },
     {
       "name": "poweron_oam_119",
+      "test_group": "poweron_oam",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_oam_119.s",
       "rom": "poweron_oam_119.gb",
       "models": ["dmg"],
@@ -4593,6 +4607,7 @@
     },
     {
       "name": "poweron_oam_120",
+      "test_group": "poweron_oam",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_oam_120.s",
       "rom": "poweron_oam_120.gb",
       "models": ["dmg"],
@@ -4608,6 +4623,7 @@
     },
     {
       "name": "poweron_oam_121",
+      "test_group": "poweron_oam",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_oam_121.s",
       "rom": "poweron_oam_121.gb",
       "models": ["dmg"],
@@ -4623,6 +4639,7 @@
     },
     {
       "name": "poweron_oam_183",
+      "test_group": "poweron_oam",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_oam_183.s",
       "rom": "poweron_oam_183.gb",
       "models": ["dmg"],
@@ -4638,6 +4655,7 @@
     },
     {
       "name": "poweron_oam_184",
+      "test_group": "poweron_oam",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_oam_184.s",
       "rom": "poweron_oam_184.gb",
       "models": ["dmg"],
@@ -4653,6 +4671,7 @@
     },
     {
       "name": "poweron_oam_233",
+      "test_group": "poweron_oam",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_oam_233.s",
       "rom": "poweron_oam_233.gb",
       "models": ["dmg"],
@@ -4668,6 +4687,7 @@
     },
     {
       "name": "poweron_oam_234",
+      "test_group": "poweron_oam",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_oam_234.s",
       "rom": "poweron_oam_234.gb",
       "models": ["dmg"],
@@ -4683,6 +4703,7 @@
     },
     {
       "name": "poweron_oam_235",
+      "test_group": "poweron_oam",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_oam_235.s",
       "rom": "poweron_oam_235.gb",
       "models": ["dmg"],
@@ -4788,6 +4809,7 @@
     },
     {
       "name": "poweron_stat_000",
+      "test_group": "poweron_stat",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_stat_000.s",
       "rom": "poweron_stat_000.gb",
       "models": ["dmg"],
@@ -4803,6 +4825,7 @@
     },
     {
       "name": "poweron_stat_005",
+      "test_group": "poweron_stat",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_stat_005.s",
       "rom": "poweron_stat_005.gb",
       "models": ["dmg"],
@@ -4818,6 +4841,7 @@
     },
     {
       "name": "poweron_stat_006",
+      "test_group": "poweron_stat",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_stat_006.s",
       "rom": "poweron_stat_006.gb",
       "models": ["dmg"],
@@ -4833,6 +4857,7 @@
     },
     {
       "name": "poweron_stat_007",
+      "test_group": "poweron_stat",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_stat_007.s",
       "rom": "poweron_stat_007.gb",
       "models": ["dmg"],
@@ -4848,6 +4873,7 @@
     },
     {
       "name": "poweron_stat_026",
+      "test_group": "poweron_stat",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_stat_026.s",
       "rom": "poweron_stat_026.gb",
       "models": ["dmg"],
@@ -4863,6 +4889,7 @@
     },
     {
       "name": "poweron_stat_027",
+      "test_group": "poweron_stat",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_stat_027.s",
       "rom": "poweron_stat_027.gb",
       "models": ["dmg"],
@@ -4878,6 +4905,7 @@
     },
     {
       "name": "poweron_stat_069",
+      "test_group": "poweron_stat",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_stat_069.s",
       "rom": "poweron_stat_069.gb",
       "models": ["dmg"],
@@ -4893,6 +4921,7 @@
     },
     {
       "name": "poweron_stat_070",
+      "test_group": "poweron_stat",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_stat_070.s",
       "rom": "poweron_stat_070.gb",
       "models": ["dmg"],
@@ -4908,6 +4937,7 @@
     },
     {
       "name": "poweron_stat_119",
+      "test_group": "poweron_stat",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_stat_119.s",
       "rom": "poweron_stat_119.gb",
       "models": ["dmg"],
@@ -4923,6 +4953,7 @@
     },
     {
       "name": "poweron_stat_120",
+      "test_group": "poweron_stat",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_stat_120.s",
       "rom": "poweron_stat_120.gb",
       "models": ["dmg"],
@@ -4938,6 +4969,7 @@
     },
     {
       "name": "poweron_stat_121",
+      "test_group": "poweron_stat",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_stat_121.s",
       "rom": "poweron_stat_121.gb",
       "models": ["dmg"],
@@ -4953,6 +4985,7 @@
     },
     {
       "name": "poweron_stat_140",
+      "test_group": "poweron_stat",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_stat_140.s",
       "rom": "poweron_stat_140.gb",
       "models": ["dmg"],
@@ -4968,6 +5001,7 @@
     },
     {
       "name": "poweron_stat_141",
+      "test_group": "poweron_stat",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_stat_141.s",
       "rom": "poweron_stat_141.gb",
       "models": ["dmg"],
@@ -4983,6 +5017,7 @@
     },
     {
       "name": "poweron_stat_183",
+      "test_group": "poweron_stat",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_stat_183.s",
       "rom": "poweron_stat_183.gb",
       "models": ["dmg"],
@@ -4998,6 +5033,7 @@
     },
     {
       "name": "poweron_stat_184",
+      "test_group": "poweron_stat",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_stat_184.s",
       "rom": "poweron_stat_184.gb",
       "models": ["dmg"],
@@ -5013,6 +5049,7 @@
     },
     {
       "name": "poweron_stat_234",
+      "test_group": "poweron_stat",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_stat_234.s",
       "rom": "poweron_stat_234.gb",
       "models": ["dmg"],
@@ -5028,6 +5065,7 @@
     },
     {
       "name": "poweron_stat_235",
+      "test_group": "poweron_stat",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_stat_235.s",
       "rom": "poweron_stat_235.gb",
       "models": ["dmg"],
@@ -5088,6 +5126,7 @@
     },
     {
       "name": "poweron_vram_000",
+      "test_group": "poweron_vram",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_vram_000.s",
       "rom": "poweron_vram_000.gb",
       "models": ["dmg"],
@@ -5103,6 +5142,7 @@
     },
     {
       "name": "poweron_vram_025",
+      "test_group": "poweron_vram",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_vram_025.s",
       "rom": "poweron_vram_025.gb",
       "models": ["dmg"],
@@ -5118,6 +5158,7 @@
     },
     {
       "name": "poweron_vram_026",
+      "test_group": "poweron_vram",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_vram_026.s",
       "rom": "poweron_vram_026.gb",
       "models": ["dmg"],
@@ -5133,6 +5174,7 @@
     },
     {
       "name": "poweron_vram_069",
+      "test_group": "poweron_vram",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_vram_069.s",
       "rom": "poweron_vram_069.gb",
       "models": ["dmg"],
@@ -5148,6 +5190,7 @@
     },
     {
       "name": "poweron_vram_070",
+      "test_group": "poweron_vram",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_vram_070.s",
       "rom": "poweron_vram_070.gb",
       "models": ["dmg"],
@@ -5163,6 +5206,7 @@
     },
     {
       "name": "poweron_vram_139",
+      "test_group": "poweron_vram",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_vram_139.s",
       "rom": "poweron_vram_139.gb",
       "models": ["dmg"],
@@ -5178,6 +5222,7 @@
     },
     {
       "name": "poweron_vram_140",
+      "test_group": "poweron_vram",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_vram_140.s",
       "rom": "poweron_vram_140.gb",
       "models": ["dmg"],
@@ -5193,6 +5238,7 @@
     },
     {
       "name": "poweron_vram_183",
+      "test_group": "poweron_vram",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_vram_183.s",
       "rom": "poweron_vram_183.gb",
       "models": ["dmg"],
@@ -5208,6 +5254,7 @@
     },
     {
       "name": "poweron_vram_184",
+      "test_group": "poweron_vram",
       "source": "https://github.com/aappleby/gbmicrotest/blob/main/tests/poweron_vram_184.s",
       "rom": "poweron_vram_184.gb",
       "models": ["dmg"],

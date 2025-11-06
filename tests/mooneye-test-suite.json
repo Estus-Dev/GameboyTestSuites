@@ -833,7 +833,7 @@
           "h": 21,
           "l": 34
         },
-        "screenshot": "acceptance/oam_dma_start.png"
+        "screenshot": ["acceptance/oam_dma_start.png", "acceptance/oam_dma_start_2.png"]
       }
     },
     {

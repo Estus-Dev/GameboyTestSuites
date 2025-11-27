@@ -1851,7 +1851,7 @@
       "models": ["dmg", "mgb", "cgb", "sgb", "sgb2"],
       "exit": {
         "opcode": 64,
-        "time": 2
+        "time": 6
       },
       "success": {
         "registers": {
@@ -1872,7 +1872,7 @@
       "models": ["dmg", "mgb", "cgb", "sgb", "sgb2"],
       "exit": {
         "opcode": 64,
-        "time": 2
+        "time": 3.5
       },
       "success": {
         "registers": {
@@ -1893,7 +1893,7 @@
       "models": ["dmg", "mgb", "cgb", "sgb", "sgb2"],
       "exit": {
         "opcode": 64,
-        "time": 2
+        "time": 3
       },
       "success": {
         "registers": {

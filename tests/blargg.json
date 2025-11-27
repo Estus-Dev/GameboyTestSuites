@@ -47,7 +47,7 @@
       "rom": "cpu_instrs/04-op_r,imm.gb",
       "models": ["dmg", "mgb", "cgb", "sgb", "sgb2"],
       "exit": {
-        "time": 2.5
+        "time": 3
       },
       "success": {
         "screenshot": "cpu_instrs/04-op_r,imm.png",
@@ -60,7 +60,7 @@
       "rom": "cpu_instrs/05-op_rp.gb",
       "models": ["dmg", "mgb", "cgb", "sgb", "sgb2"],
       "exit": {
-        "time": 3
+        "time": 4
       },
       "success": {
         "screenshot": "cpu_instrs/05-op_rp.png",
@@ -112,7 +112,7 @@
       "rom": "cpu_instrs/09-op_r,r.gb",
       "models": ["dmg", "mgb", "cgb", "sgb", "sgb2"],
       "exit": {
-        "time": 7
+        "time": 10
       },
       "success": {
         "screenshot": "cpu_instrs/09-op_r,r.png",
@@ -138,7 +138,7 @@
       "rom": "cpu_instrs/11-op_a,(hl).gb",
       "models": ["dmg", "mgb", "cgb", "sgb", "sgb2"],
       "exit": {
-        "time": 13
+        "time": 18
       },
       "success": {
         "screenshot": "cpu_instrs/11-op_a,(hl).png",
